@@ -2,11 +2,13 @@
 
 Personal notes from 53 presentations attended by Marek Nevole at [ECML PKDD 2026](https://ecmlpkdd.org/2026/), September 7–11, 2026, in Naples, Italy. Shared to make it easier to revisit the talks and find their papers and code.
 
-[Conference](https://ecmlpkdd.org/2026/) · [Program](https://ecmlpkdd.org/2026/program/) · [Proceedings](https://ecmlpkdd.org/2026/proceedings/)
+[Conference](https://ecmlpkdd.org/2026/) · [Proceedings](https://ecmlpkdd.org/2026/proceedings/)
 
 Each presentation folder contains a `README.md` with metadata and verified links, plus the original Wispr Flow `summary.md` and `transcript.md`. This is an unofficial, partial collection, not the conference proceedings.
 
-The summaries are exported unchanged from Wispr Flow’s saved Markdown. Transcripts contain the exact saved refined text segments in their original order, separated by blank lines; no wording has been corrected or regenerated. Automatic summaries and transcripts may contain recognition errors, incorrect names, and unresolved speaker tokens. Metadata is checked separately against the program and paper sources. Scheduled times use CEST (Europe/Rome); recording starts can differ from program slots.
+## About these notes
+
+The summaries are exported unchanged from Wispr Flow’s saved Markdown. Transcripts contain the exact saved refined text segments in their original order, separated by blank lines; no wording has been corrected or regenerated. Automatic summaries and transcripts may contain recognition errors, incorrect names, and unresolved speaker tokens. Metadata is checked separately against the program and paper sources.
 
 Paper and repository availability was checked on September 12, 2026. Missing links mean no matching public version was verified, not that none exists. The seal-strength workshop recording has a descriptive title and an explicitly unverified paper identity.
 
@@ -87,4 +89,4 @@ Paper and repository availability was checked on September 12, 2026. Missing lin
 
 ## Sources
 
-Conference metadata comes from the [official Whova program](https://ecmlpkdd.org/2026/program/), the [QCDS workshop program](https://qcds-2026.github.io/), and the [SOMI workshop page](https://slawomir-nowaczyk.github.io/SOMI-2026). Individual READMEs link to papers and author repositories where verified. Original research belongs to its respective authors; these notes are not author-approved transcripts.
+Conference metadata comes from the official Whova program, the QCDS workshop program, and the SOMI workshop page. Individual READMEs link to papers and author repositories where verified. Original research belongs to its respective authors; these notes are not author-approved transcripts.
