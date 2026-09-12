@@ -1,0 +1,1 @@
+Conference talk presenting a game-theoretic framework ("Flynt") showing LLMs can adapt scam-baiting strategies from structured feedback without training, with DeepSeek outperforming GPT-4 and Mixtral.
