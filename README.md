@@ -10,8 +10,6 @@ The summaries use Wispr Flow’s saved Markdown, and transcripts use its saved r
 
 Paper and repository availability was checked on September 12, 2026. Missing links mean no matching public version was verified, not that none exists. The seal-strength workshop recording has a descriptive title and an explicitly unverified paper identity.
 
-### Monday, September 7
-
 | Presentation | Summary and transcript |
 | --- | --- |
 | [Uncertainty-Aware Classifier Accuracy Prediction under Prior Probability Shift](uncertainty-aware-classifier-accuracy-prediction-under-prior-probability-shift/) | [Summary](uncertainty-aware-classifier-accuracy-prediction-under-prior-probability-shift/summary.md) · [Transcript](uncertainty-aware-classifier-accuracy-prediction-under-prior-probability-shift/transcript.md) |
@@ -21,11 +19,6 @@ Paper and repository availability was checked on September 12, 2026. Missing lin
 | [Systems Over Architectures: Foundation Models for Player Time Series, Empirical Realities, and Future Frontiers](systems-over-architectures-foundation-models-for-player-time-series-empirical-realities-and-future-frontiers/) | [Summary](systems-over-architectures-foundation-models-for-player-time-series-empirical-realities-and-future-frontiers/summary.md) · [Transcript](systems-over-architectures-foundation-models-for-player-time-series-empirical-realities-and-future-frontiers/transcript.md) |
 | [Evaluating Structured Information Extraction with Open Models in a High Risk Public Sector Application](evaluating-structured-information-extraction-with-open-models-in-a-high-risk-public-sector-application/) | [Summary](evaluating-structured-information-extraction-with-open-models-in-a-high-risk-public-sector-application/summary.md) · [Transcript](evaluating-structured-information-extraction-with-open-models-in-a-high-risk-public-sector-application/transcript.md) |
 | [Modelling Seal Strength in Medical Device Packaging](modelling-seal-strength-in-medical-device-packaging/) | [Summary](modelling-seal-strength-in-medical-device-packaging/summary.md) · [Transcript](modelling-seal-strength-in-medical-device-packaging/transcript.md) |
-
-### Tuesday, September 8
-
-| Presentation | Summary and transcript |
-| --- | --- |
 | [Understanding and Mitigating Semantic Popularity Bias in LLM-based Recommender Systems](understanding-and-mitigating-semantic-popularity-bias-in-llm-based-recommender-systems/) | [Summary](understanding-and-mitigating-semantic-popularity-bias-in-llm-based-recommender-systems/summary.md) · [Transcript](understanding-and-mitigating-semantic-popularity-bias-in-llm-based-recommender-systems/transcript.md) |
 | [AISecurityPulse: Automating Security Issue Reports for AI Models](aisecuritypulse-automating-security-issue-reports-for-ai-models/) | [Summary](aisecuritypulse-automating-security-issue-reports-for-ai-models/summary.md) · [Transcript](aisecuritypulse-automating-security-issue-reports-for-ai-models/transcript.md) |
 | [Continual Anomaly Detection with pyCLAD](continual-anomaly-detection-with-pyclad/) | [Summary](continual-anomaly-detection-with-pyclad/summary.md) · [Transcript](continual-anomaly-detection-with-pyclad/transcript.md) |
@@ -44,11 +37,6 @@ Paper and repository availability was checked on September 12, 2026. Missing lin
 | [From Clicks to Clips: A Multimodal Retrieval System for E-Commerce Video Recommendations](from-clicks-to-clips-a-multimodal-retrieval-system-for-e-commerce-video-recommendations/) | [Summary](from-clicks-to-clips-a-multimodal-retrieval-system-for-e-commerce-video-recommendations/summary.md) · [Transcript](from-clicks-to-clips-a-multimodal-retrieval-system-for-e-commerce-video-recommendations/transcript.md) |
 | [The DocLap interface for document layout analysis and interaction](the-doclap-interface-for-document-layout-analysis-and-interaction/) | [Summary](the-doclap-interface-for-document-layout-analysis-and-interaction/summary.md) · [Transcript](the-doclap-interface-for-document-layout-analysis-and-interaction/transcript.md) |
 | [CapFlex: Multimodal Soft Clustering with Flexible Size Constraints](capflex-multimodal-soft-clustering-with-flexible-size-constraints/) | [Summary](capflex-multimodal-soft-clustering-with-flexible-size-constraints/summary.md) · [Transcript](capflex-multimodal-soft-clustering-with-flexible-size-constraints/transcript.md) |
-
-### Wednesday, September 9
-
-| Presentation | Summary and transcript |
-| --- | --- |
 | [TS2TabPFN: Time Series Classification and Extrinsic Regression through Feature Extraction and a Tabular Foundation Model](ts2tabpfn-time-series-classification-and-extrinsic-regression-through-feature-extraction-and-a-tabular-foundation-model/) | [Summary](ts2tabpfn-time-series-classification-and-extrinsic-regression-through-feature-extraction-and-a-tabular-foundation-model/summary.md) · [Transcript](ts2tabpfn-time-series-classification-and-extrinsic-regression-through-feature-extraction-and-a-tabular-foundation-model/transcript.md) |
 | [Dynamic Instance Weighting for Online Learning in Multi-Cryptocurrency Price and Trend Forecasting](dynamic-instance-weighting-for-online-learning-in-multi-cryptocurrency-price-and-trend-forecasting/) | [Summary](dynamic-instance-weighting-for-online-learning-in-multi-cryptocurrency-price-and-trend-forecasting/summary.md) · [Transcript](dynamic-instance-weighting-for-online-learning-in-multi-cryptocurrency-price-and-trend-forecasting/transcript.md) |
 | [Tensor-TimesFM: High-dimensional Sparse Time Series Forecasting with Tensor Decoders and Latent Dynamics Prediction](tensor-timesfm-high-dimensional-sparse-time-series-forecasting-with-tensor-decoders-and-latent-dynamics-prediction/) | [Summary](tensor-timesfm-high-dimensional-sparse-time-series-forecasting-with-tensor-decoders-and-latent-dynamics-prediction/summary.md) · [Transcript](tensor-timesfm-high-dimensional-sparse-time-series-forecasting-with-tensor-decoders-and-latent-dynamics-prediction/transcript.md) |
@@ -62,11 +50,6 @@ Paper and repository availability was checked on September 12, 2026. Missing lin
 | [Data Circulation for Perception-aware Location-based Services in Urban Spaces](data-circulation-for-perception-aware-location-based-services-in-urban-spaces/) | [Summary](data-circulation-for-perception-aware-location-based-services-in-urban-spaces/summary.md) · [Transcript](data-circulation-for-perception-aware-location-based-services-in-urban-spaces/transcript.md) |
 | [Modeling Matches as Language: A Generative Transformer Approach for Counterfactual Player Valuation in Football](modeling-matches-as-language-a-generative-transformer-approach-for-counterfactual-player-valuation-in-football/) | [Summary](modeling-matches-as-language-a-generative-transformer-approach-for-counterfactual-player-valuation-in-football/summary.md) · [Transcript](modeling-matches-as-language-a-generative-transformer-approach-for-counterfactual-player-valuation-in-football/transcript.md) |
 | [Human-Centric Multimodal Fusion for Real-Time Driving Hazard Detection](human-centric-multimodal-fusion-for-real-time-driving-hazard-detection/) | [Summary](human-centric-multimodal-fusion-for-real-time-driving-hazard-detection/summary.md) · [Transcript](human-centric-multimodal-fusion-for-real-time-driving-hazard-detection/transcript.md) |
-
-### Thursday, September 10
-
-| Presentation | Summary and transcript |
-| --- | --- |
 | [ASDA: Automated Skill Distillation and Adaptation for Financial Reasoning](asda-automated-skill-distillation-and-adaptation-for-financial-reasoning/) | [Summary](asda-automated-skill-distillation-and-adaptation-for-financial-reasoning/summary.md) · [Transcript](asda-automated-skill-distillation-and-adaptation-for-financial-reasoning/transcript.md) |
 | [Game of Phones: Harnessing Game Theory and LLMs in Bot Wars to Counteract Phone Scams](game-of-phones-harnessing-game-theory-and-llms-in-bot-wars-to-counteract-phone-scams/) | [Summary](game-of-phones-harnessing-game-theory-and-llms-in-bot-wars-to-counteract-phone-scams/summary.md) · [Transcript](game-of-phones-harnessing-game-theory-and-llms-in-bot-wars-to-counteract-phone-scams/transcript.md) |
 | [ARENA: A Cognitive Multi-Agent Framework for Modeling Conflict-Driven Group Conversation](arena-a-cognitive-multi-agent-framework-for-modeling-conflict-driven-group-conversation/) | [Summary](arena-a-cognitive-multi-agent-framework-for-modeling-conflict-driven-group-conversation/summary.md) · [Transcript](arena-a-cognitive-multi-agent-framework-for-modeling-conflict-driven-group-conversation/transcript.md) |
