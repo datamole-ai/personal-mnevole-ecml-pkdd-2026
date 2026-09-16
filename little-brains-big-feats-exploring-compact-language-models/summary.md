@@ -1,4 +1,4 @@
-Conference talk by <@speaker:1> (`<speaker>`, Spirit DNS) on benchmarking compact 1-8B LLMs as RAG generators for Russian, showing Qwen3-4B hits a strong quality/latency tradeoff near GPT-5 mini.
+Conference talk by <@speaker:1> (`<name>`, Spirit DNS) on benchmarking compact 1-8B LLMs as RAG generators for Russian, showing Qwen3-4B hits a strong quality/latency tradeoff near GPT-5 mini.
 
 ### Setup & Benchmark
 - Practical constraints: on-device (no data leakage), CPU-only, ~16GB RAM, 1-8B params, Russian output

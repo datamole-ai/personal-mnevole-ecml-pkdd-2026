@@ -1,6 +1,6 @@
 ### Speaker 1
 
-So, hello everyone. Uh, so actually, `<speaker>` couldn't— couldn't be here, so I will give you the presentation instead. My name is `<speaker>`, and this is, uh, RocketMan— so it's a student work with `<speaker>` from the Polytechnic University of Valencia, Spain.
+So, hello everyone. Uh, so actually, `<name>` couldn't— couldn't be here, so I will give you the presentation instead. My name is `<name>`, and this is, uh, RocketMan— so it's a student work with `<name>` from the Polytechnic University of Valencia, Spain.
 
  He came from SPOLE, Escuela Superior Politécnica del Litoral in Guayaquil, Ecuador, and all the other from England. Alright, so this is about time-series specification, which is a very, uh, it's a very important task.
 

@@ -1,12 +1,12 @@
 ### Speaker 1
 
-So, um, I'm talking about something I did about Wispr and our university, and it relates to— we were basically following the idea that, okay, many things in the public sector have room for improvement. We've never tried to escort into `<speaker>`, or so many people have talked about, and I'll talk more about the details of the application, but to connect this to the, uh, to the ideas of the workshop— Ah, oh.
+So, um, I'm talking about something I did about Wispr and our university, and it relates to— we were basically following the idea that, okay, many things in the public sector have room for improvement. We've never tried to escort into `<name>`, or so many people have talked about, and I'll talk more about the details of the application, but to connect this to the, uh, to the ideas of the workshop— Ah, oh.
 
  Okay. Ah, yeah, right.
 
  So, uh, to connect this, let me start with an anecdote. One of my favorite anecdotes, and one of my favorite figures, from all various papers.
 
- I've been working in the industry for, like, 8 years, at some big tech company, at a diversity company, and when I stumbled out of academia, it was really like this: I'm teaching the data, I'm using machine learning, and we get some predictions, and then when they're in reality, it actually looks like this. So this is a paper around the group around `<speaker>` at Google, and they've been doing something similar without computing, and I'll show you on the screen.
+ I've been working in the industry for, like, 8 years, at some big tech company, at a diversity company, and when I stumbled out of academia, it was really like this: I'm teaching the data, I'm using machine learning, and we get some predictions, and then when they're in reality, it actually looks like this. So this is a paper around the group around `<name>` at Google, and they've been doing something similar without computing, and I'll show you on the screen.
 
  And I'm mentioning this because, so the boxes are proportionally time you spend on each of these tasks, and as all of you know, the machine learning part, which we were really behind for in the industry, we don't spend a lot of time on that. And also, in today's talk, and this is why I'm bringing up this figure, we have spent more time on this, this, this, and this, than on the actual machine learning part.
 
@@ -32,7 +32,7 @@ So, um, I'm talking about something I did about Wispr and our university, and it
 
  So we can, you know, basically compare that and say, yes, it would be registered for the course. And there are, there's a lot of research on this, but the specific requirements that we have related to, you know, training data, and we can't send the data anywhere, so that makes it difficult.
 
- So that's the— and by the way, I should mention, all this was done by `<speaker>`, who unfortunately can't make it today, but all this, you know, system structure we also built and envisioned by him. So how would you do that?
+ So that's the— and by the way, I should mention, all this was done by `<name>`, who unfortunately can't make it today, but all this, you know, system structure we also built and envisioned by him. So how would you do that?
 
  You can either just OCR the text out of the documents and then dump that into an LLM, or you dump it into a vision board, essentially. And those are the two options that we tried, and there are different OCR approaches that you can take.
 
@@ -42,7 +42,7 @@ So, um, I'm talking about something I did about Wispr and our university, and it
 
  And these tables, sometimes they're open, sometimes they're not, so it's very heterogeneous. Then there are vision language models that we looked at.
 
- So `<speaker>` took the latest ones back then, I think in 2025, and now they're, of course, much better ones, with, you know, more parameters, but as we will see, not, you know, I mean, capacity is not the only factor here.
+ So `<name>` took the latest ones back then, I think in 2025, and now they're, of course, much better ones, with, you know, more parameters, but as we will see, not, you know, I mean, capacity is not the only factor here.
 
  So, yeah, let's jump right into the results. I'm sorry that in the first version that I uploaded, someone took off the header, but the header here says Precision Recall and F1.
 

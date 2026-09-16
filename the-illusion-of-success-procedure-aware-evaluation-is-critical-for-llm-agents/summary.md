@@ -1,4 +1,4 @@
-`<speaker>` (Amadeus) presented PAE, a procedure-aware evaluation framework for AI agents, showing that 27-78% of reported successes are "corrupt" — correct outcome, violated procedure.
+`<name>` (Amadeus) presented PAE, a procedure-aware evaluation framework for AI agents, showing that 27-78% of reported successes are "corrupt" — correct outcome, violated procedure.
 
 ### Corrupt Success Problem
 - Flight rebooking case: correct $890 charge, but agent quoted $320, skipped cancellation consent, hallucinated flight time
@@ -17,4 +17,4 @@
 
 ### Next Steps
 - Try the open-sourced Agent Theory Discovery tool to auto-generate error taxonomies from agent logs
-- Catch `<speaker>`'s 4 follow-up papers at October conferences
+- Catch `<name>`'s 4 follow-up papers at October conferences

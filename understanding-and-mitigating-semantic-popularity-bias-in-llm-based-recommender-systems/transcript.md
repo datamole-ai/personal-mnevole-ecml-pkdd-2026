@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Good morning, everyone. I'm `<speaker>`, and I'll just jump in quickly. Today I'm looking at a small work on signing and leveraging medical reality to arts and literary appraisal in manifested language.
+Good morning, everyone. I'm `<name>`, and I'll just jump in quickly. Today I'm looking at a small work on signing and leveraging medical reality to arts and literary appraisal in manifested language.
 
  Our culture of concentrated observation says that art recommended doesn't simply inherit the popularity of eventual items; it inherits the ones of unlearning. Popularity has grown through thematic relationships and amplified the cultural obtaining attitude.
 
@@ -14,7 +14,7 @@ Good morning, everyone. I'm `<speaker>`, and I'll just jump in quickly. Today I'
 
  So commission of popularity bias earlies survives, and it can even be amplified when we fine-tune it and pair them for recommendation.
 
- However, item frequency on the balance is where the impact affects. `<speaker>` asks where the popularity after only the popular item itself.
+ However, item frequency on the balance is where the impact affects. `<name>` asks where the popularity after only the popular item itself.
 
  To test this, we first remove the top 30% most popular items. With that group of all remaining items by the NAMA embedding distance to the popular set, G1 now provides the earliest semantic labels, while later groups have progressively less label and similarity.
 

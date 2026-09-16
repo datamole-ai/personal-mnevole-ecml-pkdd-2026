@@ -1,10 +1,10 @@
 ### Speaker 1
 
-So the first presentation is "Measures that Matter": a unified evaluation framework for genuine explainability, from `<speaker>` to `<speaker>`.
+So the first presentation is "Measures that Matter": a unified evaluation framework for genuine explainability, from `<name>` to `<name>`.
 
 ### Speaker 2
 
- Hello everybody. I'm `<speaker>`, I'm from Sapienti University, and this is our roundtable with people at Wispr Flow, which is a bank, and since we're in live at Wispr, I'm going to start with a bank example: a machine learning task, which is based on transaction actors. Transaction actors: nodes are bank users, bank accounts, which exchange money, monetary transactions with one another, and we might be interested in many possible machine learning tasks from this kind of data, such as, for example, a node classification task where we
+ Hello everybody. I'm `<name>`, I'm from Sapienti University, and this is our roundtable with people at Wispr Flow, which is a bank, and since we're in live at Wispr, I'm going to start with a bank example: a machine learning task, which is based on transaction actors. Transaction actors: nodes are bank users, bank accounts, which exchange money, monetary transactions with one another, and we might be interested in many possible machine learning tasks from this kind of data, such as, for example, a node classification task where we
 
  want to understand if some of the users have some high risk or default or something similar.
 

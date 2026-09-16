@@ -1,4 +1,4 @@
-`<speaker>` presented research on whether statistical benchmark-contamination detectors for LLMs hold up outside academic settings, finding all tested methods degrade significantly under realistic post-training conditions.
+`<name>` presented research on whether statistical benchmark-contamination detectors for LLMs hold up outside academic settings, finding all tested methods degrade significantly under realistic post-training conditions.
 
 ### Benchmark Contamination & Detection Methods
 - Contamination: public benchmarks leaking into training data, making eval scores untrustworthy

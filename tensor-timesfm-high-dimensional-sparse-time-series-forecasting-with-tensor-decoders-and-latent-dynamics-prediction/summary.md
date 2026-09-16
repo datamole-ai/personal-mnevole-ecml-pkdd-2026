@@ -1,4 +1,4 @@
-`<speaker>` presented a tensor decomposition + foundation model framework for forecasting multivariate time series (crypto, EPS, retail sales, rideshare), outperforming standard TimeFM and CP baselines, especially on sparse data.
+`<name>` presented a tensor decomposition + foundation model framework for forecasting multivariate time series (crypto, EPS, retail sales, rideshare), outperforming standard TimeFM and CP baselines, especially on sparse data.
 
 ### Problem & Motivation
 - Forecasting multi-entity, multi-feature time series as a tensor (e.g. cryptocurrencies × features × time)

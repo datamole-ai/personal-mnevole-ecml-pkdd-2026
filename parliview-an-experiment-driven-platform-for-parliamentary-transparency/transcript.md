@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Okay, it's great to be here with you today. We're joining you on the platform for the Wispr practice, and it's a collaboration with `<speaker>` and Chair `<speaker>` of the School of Computer Science and School of Politics and International Relations at UCD. And with today of our listeners who are joining for the practice of government and public policy at the University of Strathclyde in Glasgow.
+Okay, it's great to be here with you today. We're joining you on the platform for the Wispr practice, and it's a collaboration with `<name>` and Chair `<name>` of the School of Computer Science and School of Politics and International Relations at UCD. And with today of our listeners who are joining for the practice of government and public policy at the University of Strathclyde in Glasgow.
 
  So I'll introduce a problem. In one week, the European Parliament—and we're very, very good at trying to make information available to the public—we'll live-stream about 40 hours of video on the internet, I think about 450 in the U.S. available to the public, and all of this is across 24 different official languages.
 

@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Hi. My name is `<speaker>`, and I'm a PhD student studying computer science and CR. And today I'm going to present our work on Tena, actually with a multicultural analysis system regarding neurals.
+Hi. My name is `<name>`, and I'm a PhD student studying computer science and CR. And today I'm going to present our work on Tena, actually with a multicultural analysis system regarding neurals.
 
  So when you reword datasets, include multiple interaction aspects, such as user interactions or multivariate measurements. And these type of dataset can be naturally replaced into less sensors, which is just an end-to-end sort of way.
 

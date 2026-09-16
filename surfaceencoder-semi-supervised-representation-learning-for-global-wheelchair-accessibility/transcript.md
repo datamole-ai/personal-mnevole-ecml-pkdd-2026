@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Hi. I'm `<speaker>`, from the marketing side. For `<speaker>`, today I will talk about my subject matter: a Siemens supervised retention plan for low-acuity chair accessibility.
+Hi. I'm `<name>`, from the marketing side. For `<name>`, today I will talk about my subject matter: a Siemens supervised retention plan for low-acuity chair accessibility.
 
  So basically, I worked with wheelchair navigation, and there are certain rules of, like, a detailed parallel ETA that is for such that minimum clarity for a hallway should be clean to be wheelchair accessibility compliant, and also there should be cars for each 200 meters in a hallway. And there are different such regulations for accessibility, but most of these regulations are on paper but not always implemented.
 

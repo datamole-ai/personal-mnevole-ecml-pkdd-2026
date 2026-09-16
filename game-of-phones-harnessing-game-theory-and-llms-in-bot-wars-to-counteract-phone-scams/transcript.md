@@ -1,6 +1,6 @@
 ### Speaker 1
 
-This is `<speaker>` from McGuire University in Australia, and today I'm presenting, uh, the game of Flynt. Well, a larger push for lawbooks has been increasingly deployed in adversarial settings that include penetration testing, automated negotiation, and fraud prevention. And the power of these models really lies in their capability to evolve and adapt, because opponents are not static, and a strategy that's working today might be countered tomorrow, which requires constant and consistent adaptation, and which a training cycle cannot provide efficiently.
+This is `<name>` from McGuire University in Australia, and today I'm presenting, uh, the game of Flynt. Well, a larger push for lawbooks has been increasingly deployed in adversarial settings that include penetration testing, automated negotiation, and fraud prevention. And the power of these models really lies in their capability to evolve and adapt, because opponents are not static, and a strategy that's working today might be countered tomorrow, which requires constant and consistent adaptation, and which a training cycle cannot provide efficiently.
 
  Um, in this work we're studying the capability of large language models to learn from structured feedback without any training, and we base our study on, as can, um, attacks—uh, use cases—where malicious actors always adapt and evolve their strategies. Um, well, at scale attacks really pose very significant pressure on financial and, uh, systems and individuals.
 
@@ -94,7 +94,7 @@ This is `<speaker>` from McGuire University in Australia, and today I'm presenti
 
 ### Speaker 5
 
- And so related to that question, `<speaker>`, basically you just put GPT-4, GPT-5, which regions?
+ And so related to that question, `<name>`, basically you just put GPT-4, GPT-5, which regions?
 
  Because now there are 10 regions of performance for Nash equilibrium. So you tested it with 4, but now there is 5, 5.6, 6, and so on, so you cannot see that on the slides.
 

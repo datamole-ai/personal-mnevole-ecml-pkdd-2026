@@ -8,7 +8,7 @@ I'm hiring by 740 dictation and 238 for post-production.
 
 ### Speaker 3
 
- Hi everyone, `<speaker>` here from American University, with a finger crossed HEH University. Hello. Today we're presenting PyTab, our library in framework for continual anomaly detection.
+ Hi everyone, `<name>` here from American University, with a finger crossed HEH University. Hello. Today we're presenting PyTab, our library in framework for continual anomaly detection.
 
  So let's start with the motivation. If we look at the landscape of available software libraries for anomaly detection, let's consider two particular issues: adapting to new conditions.
 

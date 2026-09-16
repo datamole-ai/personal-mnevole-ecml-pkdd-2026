@@ -1,4 +1,4 @@
-`<speaker>` presented ASPER, a training-free method that teaches LLMs to close financial-reasoning knowledge gaps via an auto-generated agent-skills library, showing up to 17% accuracy uplift on the Farmer benchmark.
+`<name>` presented ASPER, a training-free method that teaches LLMs to close financial-reasoning knowledge gaps via an auto-generated agent-skills library, showing up to 17% accuracy uplift on the Farmer benchmark.
 
 ### ASPER Motivation & Approach
 - Goal: adapt LLMs without fine-tuning; failures traced to financial domain knowledge gaps

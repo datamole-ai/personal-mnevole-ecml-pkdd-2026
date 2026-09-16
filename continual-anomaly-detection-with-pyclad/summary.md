@@ -1,4 +1,4 @@
-`<speaker>` presented PyClad, a modular library and framework for continual anomaly detection, covering motivation, core abstractions (dataset, scenario, strategy, model, callbacks), a code example, and the roadmap toward vision, time series, and video modalities.
+`<name>` presented PyClad, a modular library and framework for continual anomaly detection, covering motivation, core abstractions (dataset, scenario, strategy, model, callbacks), a code example, and the roadmap toward vision, time series, and video modalities.
 
 ### Motivation
 - Static models flag new normals as anomalies; online models adapt but forget recurring concepts.

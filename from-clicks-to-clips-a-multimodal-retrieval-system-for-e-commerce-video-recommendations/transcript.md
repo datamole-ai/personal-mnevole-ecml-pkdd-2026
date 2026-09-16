@@ -1,6 +1,6 @@
 ### Speaker 1
 
-My name is `<speaker>`. I work at Salandra, and today I will tell you about what Wispr Flow is, and what is a codex dictation, and what we call codex in English. So Salandra is a large collection store across Europe, and traditionally we originally collect fashion items from the catalog used in Salandra.
+My name is `<name>`. I work at Salandra, and today I will tell you about what Wispr Flow is, and what is a codex dictation, and what we call codex in English. So Salandra is a large collection store across Europe, and traditionally we originally collect fashion items from the catalog used in Salandra.
 
  So you see a selection of various clothing in different categories, and even then you see some data and you can do some invention adjustment. But at some point, recently, we had a pilot of a new project where users could see images generated from other users, from creators.
 
@@ -36,7 +36,7 @@ My name is `<speaker>`. I work at Salandra, and today I will tell you about what
 
  Please leave a video of the presentation. Also, you can find references to see our interactive panel.
 
- Thank you, `<speaker>`.
+ Thank you, `<name>`.
 
  Any questions?
 

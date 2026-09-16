@@ -1,4 +1,4 @@
-`<speaker>` presented an interactive RAG framework for evaluating whether retrieved documents are truly relevant, combining perturbation, similarity, and confidence-drop scoring across multiple retrievers and models.
+`<name>` presented an interactive RAG framework for evaluating whether retrieved documents are truly relevant, combining perturbation, similarity, and confidence-drop scoring across multiple retrievers and models.
 
 ### Motivation & Objective
 - Existing RAG propagation ignores whether retrieved docs are actually relevant, yielding ungrounded, low-confidence answers

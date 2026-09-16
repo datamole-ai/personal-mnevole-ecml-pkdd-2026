@@ -138,7 +138,7 @@ And I can introduce you to Frith, a new software to analyze, detect, and explain
 
 ### Speaker 1
 
- Okay, I don't know the drift detection tool. Maybe Professor `<speaker>` knows this one.
+ Okay, I don't know the drift detection tool. Maybe Professor `<name>` knows this one.
 
 ### Speaker 2
 

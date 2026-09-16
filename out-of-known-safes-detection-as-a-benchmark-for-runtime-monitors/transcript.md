@@ -94,7 +94,7 @@ Good afternoon. Thank you for witnessing tonight at the SafeGrid Summit. We'll b
 
  So as we say, we have different languages, and we have different ways to accept and ignore them. This includes two different languages of our, uh, monitoring models.
 
- And as we see here, `<speaker>` and I hope, um, we do actually have different languages. So, for example, in the case of C14, um, we're going to apply this to, uh, the ocean here as corrected cooperative shift.
+ And as we see here, `<name>` and I hope, um, we do actually have different languages. So, for example, in the case of C14, um, we're going to apply this to, uh, the ocean here as corrected cooperative shift.
 
  We see that happens over the years, so we're accepting these kind of samples. Results in, um, being connected as the best monitoring techniques.
 

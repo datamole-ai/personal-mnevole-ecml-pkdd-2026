@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Okay, uh, thank you. So good afternoon everyone. My name is `<speaker>`, so I'm from the University of Manchester.
+Okay, uh, thank you. So good afternoon everyone. My name is `<name>`, so I'm from the University of Manchester.
 
  I'm at the Department of Social Statistics, so I will present my paper, "Understanding the Technology of Quantum Data Synthesis: Starting Fast and Sampling." So, yeah.
 

@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Thanks, that's where I came across. I'm `<speaker>`, scholar from McGrory University and University of Dublin. So, here's the cross-summary of our paper: we have tried to introduce a very centralized platform to streamline AI vulnerability reporting, and we also enable anonymous and verifiable disclosures.
+Thanks, that's where I came across. I'm `<name>`, scholar from McGrory University and University of Dublin. So, here's the cross-summary of our paper: we have tried to introduce a very centralized platform to streamline AI vulnerability reporting, and we also enable anonymous and verifiable disclosures.
 
  So, in this broad and vastly fast-moving spectrum of AI, LLMs have started to become very advanced, but they also have started, you know, getting critical vulnerabilities that go unreported. And the current disclosure framework is very inefficient, and this fragmented is just everywhere.
 

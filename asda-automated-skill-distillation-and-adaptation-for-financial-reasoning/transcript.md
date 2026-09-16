@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Hello everyone. Good morning. Um, I'm `<speaker>`, the lead author for this paper.
+Hello everyone. Good morning. Um, I'm `<name>`, the lead author for this paper.
 
  This is, uh, ASPER: Automated Skills Displayation and Adaptation for Financial Risk, developed together with my co-author, um, at the University of Hong Kong. At its core, the idea is straightforward: we teach large language models to debug their own financial risk, one executable skill.
 

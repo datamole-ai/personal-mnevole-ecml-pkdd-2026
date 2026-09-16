@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Is `<speaker>`, and did he present a different enterprise chart for us than the one we're looking at here? So, my name is `<speaker>`. I'm here to talk about the roadmap for developing Wispr Flow and Wispr.
+Is `<name>`, and did he present a different enterprise chart for us than the one we're looking at here? So, my name is `<name>`. I'm here to talk about the roadmap for developing Wispr Flow and Wispr.
 
  Let me start off with one more thing: there were exactly 22 minutes of talking in one and the other one was being interrupted. So, I'll present to you an idea of mine.
 

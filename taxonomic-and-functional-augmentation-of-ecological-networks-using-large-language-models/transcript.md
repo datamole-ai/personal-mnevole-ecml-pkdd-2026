@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Actually, it's busy all three times slot in Japan, `<speaker>`. And `<speaker>`, the interim SLA, and `<speaker>` and `<speaker>` are marine biologists, so we've got computer science and some neurology.
+Actually, it's busy all three times slot in Japan, `<name>`. And `<name>`, the interim SLA, and `<name>` and `<name>` are marine biologists, so we've got computer science and some neurology.
 
  Okay, and marine biologists for progression. And we're investigating through webs.
 

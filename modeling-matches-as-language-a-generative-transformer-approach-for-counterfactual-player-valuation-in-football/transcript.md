@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Good afternoon, everyone. My name is `<speaker>`, from Transformer University of Seoul, and today I'll present my work, what I would like to mention as a brief, celebratory transformer approach for counterfactual play evaluation in football and in chill, SpotGPT. In summary, we treat a football match as a sequence of contents, and we train a GPT-style model to predict next events.
+Good afternoon, everyone. My name is `<name>`, from Transformer University of Seoul, and today I'll present my work, what I would like to mention as a brief, celebratory transformer approach for counterfactual play evaluation in football and in chill, SpotGPT. In summary, we treat a football match as a sequence of contents, and we train a GPT-style model to predict next events.
 
  Most saying the model can stimulate the player with the news, new context, or new system.
 
