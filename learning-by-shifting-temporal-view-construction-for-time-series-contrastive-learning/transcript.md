@@ -2,7 +2,7 @@
 
 Okay, it's 15:57, and we're in Norwegian University of Science and Technology. Today I'm going to be presenting one of our most recent works, which is the new flash sheet paper. Um, fairly for most of the talks today, we've seen that answer is difficult ever.
 
- One of the major challenges when you are touring data centers is that meaningful data becomes very, very scarce and difficult to obtain. And traditionally, in a supervised learning, which we all know, and which the first speaker, Diego, has talked about, you need to create this segment where you treat these time-series incidents as high ID.
+ One of the major challenges when you are touring data centers is that meaningful data becomes very, very scarce and difficult to obtain. And traditionally, in a supervised learning, which we all know, and which the first speaker, `<speaker>`, has talked about, you need to create this segment where you treat these time-series incidents as high ID.
 
  So what this entails is that you need data for every single incident that you treat. And we can see that this actually would rely on large labor brackets and requires a tremendous amount of time and resources to have humans undertake this.
 

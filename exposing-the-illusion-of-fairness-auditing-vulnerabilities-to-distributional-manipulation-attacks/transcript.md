@@ -38,13 +38,13 @@ Thanks a lot. So, the main issue I would like is Wispr Flow, and then. In munici
 
  We will give an intuition about what is the method to do. Let's say we have China, which in a known context.
 
- White auditing gender. Let's say we have Anna, who is a woman of gender, gender woman.
+ White auditing gender. Let's say we have `<speaker>`, who is a woman of gender, gender woman.
 
- And let's say we have Emmy, who is also a woman, but gender woman. Those two together, we have a pullback angle will give more weights towards Emmy, gender woman, and less towards Anna.
+ And let's say we have `<speaker>`, who is also a woman, but gender woman. Those two together, we have a pullback angle will give more weights towards `<speaker>`, gender woman, and less towards `<speaker>`.
 
- The previous transitional collection will remove the attributes of Anna, taking towards the weight of the network to minimize the transition distance, and to make it so that these attributes will get close enough. So at the end, she gets a longer modifying of providers.
+ The previous transitional collection will remove the attributes of `<speaker>`, taking towards the weight of the network to minimize the transition distance, and to make it so that these attributes will get close enough. So at the end, she gets a longer modifying of providers.
 
- And the distribution transitional collection is more straightforward. First, the replace will simply say, "Look, Anna did get a long add-on," and the automator will give those attributes to Anna, which was too heavy for her.
+ And the distribution transitional collection is more straightforward. First, the replace will simply say, "Look, `<speaker>` did get a long add-on," and the automator will give those attributes to `<speaker>`, which was too heavy for her.
 
  These are the type of manipulation which can be done in order to fool an automator. Third, we take a look at how to detect those attacks.
 

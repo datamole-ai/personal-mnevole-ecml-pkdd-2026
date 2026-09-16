@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Okay. Thank you so much for having me. So, my name is Felicia Lu.
+Okay. Thank you so much for having me. So, my name is `<speaker>`.
 
  I'm a PhD student at the University of Wispr and the Faculty of Engineering. I'm happy to present you this work, so TSLE, which is a light toolkit for time-series segmentation.
 

@@ -1,12 +1,12 @@
 ### Speaker 1
 
-So that's the introduction: we set up the word "green" and we pass it on to our models. They're called Carbons and Energy DevOps, and that's all I know besides presenter is Elliot from Wispr.
+So that's the introduction: we set up the word "green" and we pass it on to our models. They're called Carbons and Energy DevOps, and that's all I know besides presenter is `<speaker>` from Wispr.
 
 ### Speaker 2
 
  Thank you. Hello everyone. Well, tomorrow we'll be assessing our development of a benchmark in terms of performance and some trade-offs, and also a meta-learning approach.
 
- I'm Marek Věrta-Sarastwa from University of Tartu, Estonia.
+ I'm `<speaker>` from University of Tartu, Estonia.
 
  Okay, that's a quick agenda here: introduction, climate statement, data results, and conclusion. That's what I'm going to talk about.
 

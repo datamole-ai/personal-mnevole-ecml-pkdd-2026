@@ -1,6 +1,6 @@
 ### Speaker 1
 
-So, good morning everybody. Uh, I am Antonio Pelitan from the University of Bari, and today I'm going to present our work on dynamic distance weighting for line learning in multidisciplinary price and trend forecasting. So, uh, before starting, let me explain the problem that we have developed with this method.
+So, good morning everybody. Uh, I am `<speaker>` from the University of Bari, and today I'm going to present our work on dynamic distance weighting for line learning in multidisciplinary price and trend forecasting. So, uh, before starting, let me explain the problem that we have developed with this method.
 
  Basically, one of the markets that, uh, grew at an incredible speed in the last few years issued in the cryptocurrency market. This market went from a capitalization of more or less 3 billion in 2014 to more than 3.7 billion in the last year, and actually sits at 2.6 billion.
 

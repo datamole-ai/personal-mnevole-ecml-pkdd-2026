@@ -1,4 +1,4 @@
-Evan Marshall presented a semi-supervised wheelchair accessibility navigation project: crowdsourced phone-sensor data classifies sidewalk surfaces to route wheelchair users around barriers. Q&A covered sampling rates, suspension effects, and rationale for using phones over dedicated IMUs.
+`<speaker>` presented a semi-supervised wheelchair accessibility navigation project: crowdsourced phone-sensor data classifies sidewalk surfaces to route wheelchair users around barriers. Q&A covered sampling rates, suspension effects, and rationale for using phones over dedicated IMUs.
 
 ### Problem & Motivation
 - Accessibility regulations often unenforced; temporary barriers (snow, stairs, broken/cobbled sidewalks) block wheelchair routes

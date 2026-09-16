@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Okay, um, hello—uh, my name is Vincent. I'm here to comment on the data science of Netflix.
+Okay, um, hello—uh, my name is `<speaker>`. I'm here to comment on the data science of Netflix.
 
  I'll start by giving a bit of context. So, at a company like Netflix and maybe some of the companies in the box that you all work at, the main mechanism that we use to innovate on our product is through experiments that we might call "themed tests."
 

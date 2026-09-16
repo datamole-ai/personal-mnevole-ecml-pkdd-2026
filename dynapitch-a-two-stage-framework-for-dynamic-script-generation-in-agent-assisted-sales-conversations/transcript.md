@@ -1,6 +1,6 @@
 ### Speaker 1
 
-All right, uh, hello everyone. I'm Sohel, and I'll be presenting our diagram option, which is a two-stage framework for dynamic pitch generation in agent-assisted sales conversations, and this work has been done by me and my colleagues, Samir and Rosi Sadeghi, in collaboration with our other teammates. Add into it, uh, some context: Intuit is one of America's largest tax and accounting SaaS companies, and we work with experts who do your taxes for you, who do your accounting for you, and this solution doesn't serve as a
+All right, uh, hello everyone. I'm `<speaker>`, and I'll be presenting our diagram option, which is a two-stage framework for dynamic pitch generation in agent-assisted sales conversations, and this work has been done by me and my colleagues, `<speaker>` and `<speaker>`, in collaboration with our other teammates. Add into it, uh, some context: Intuit is one of America's largest tax and accounting SaaS companies, and we work with experts who do your taxes for you, who do your accounting for you, and this solution doesn't serve as a
 
  cost of expense to make them more efficient and, um, more effective at their work. So, starting with the problem. Um, our program contact center handles thousands of successful, uh, or inbound support calls every single year, and by solving the customers' problems, they are encouraged to sell a solution, uh, or a complementary product to their customer.
 
@@ -16,7 +16,7 @@ All right, uh, hello everyone. I'm Sohel, and I'll be presenting our diagram opt
 
  So, yeah, there were three main concerns when we were designing this problem. We had an existing solution built by our team, which were like static scripts, which didn't, which were not, like, customized to the conversation that you're trying to attack to the customer's problem, and hence were not very effective.
 
- Secondly, just using a general-purpose helper every single term and asking it to predict, uh, should I be pitching at this point. It didn't have an understanding of what made successful experts really good, and we wanted a model to actually ingest that and then hand it to Marek and utilize that information to improve the performance.
+ Secondly, just using a general-purpose helper every single term and asking it to predict, uh, should I be pitching at this point. It didn't have an understanding of what made successful experts really good, and we wanted a model to actually ingest that and then hand it to `<speaker>` and utilize that information to improve the performance.
 
  And finally, uh, the frontier models were the IMD or product-super-hire agencies, and hence we wanted, like, a two-stage solution, like a deeper solution where timing, like when to pitch and what phase of the conversation we are in, is, like, a cheap classification problem. So we trained a simple classifier to identify this, which is trained on successful expert conversations, and the generation is an extensive solution, which is needed to get the quality, and which is also fine-tuned on successful expert pitches.
 

@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Hello everyone, my name is Roman Yanis, I'm from Spirit DNS. It's a small company, a small startup-like, it's well connected with the Spirit State University, and so we usually make a lot of research tasks. And today I will speak about large language models, but not very large.
+Hello everyone, my name is `<speaker>`, I'm from Spirit DNS. It's a small company, a small startup-like, it's well connected with the Spirit State University, and so we usually make a lot of research tasks. And today I will speak about large language models, but not very large.
 
 ### Speaker 2
 

@@ -1,6 +1,6 @@
 ### Speaker 1
 
-My name is Miro Kahl, and I'm a senior research scientist from Avios, a leading technology company in travel industry. And as you may have seen many talks already about how they improve the benchmark for COVRs and how AI is becoming more smart, this talk is about how that got started.
+My name is `<speaker>`, and I'm a senior research scientist from Avios, a leading technology company in travel industry. And as you may have seen many talks already about how they improve the benchmark for COVRs and how AI is becoming more smart, this talk is about how that got started.
 
  So, here is a case study that we have. We have a user, a real user, who asked to rebook the flight, and the AI agent helped the user.
 
@@ -106,7 +106,7 @@ My name is Miro Kahl, and I'm a senior research scientist from Avios, a leading 
 
  Humans make the same error. And this is rooted in this incomplete evaluation contract we designed.
 
- So if you want further reading on this topic, I recommend this multitask principle, modeled principle agent theory, which is from the Nobel Prize winner in economics 2016, Holmstrom. So key takeaways: the last slide I showed you already.
+ So if you want further reading on this topic, I recommend this multitask principle, modeled principle agent theory, which is from the Nobel Prize winner in economics 2016, `<speaker>`. So key takeaways: the last slide I showed you already.
 
  This will not go away. No matter how smart your agent would be, no matter how aligned they are with human values, this will always exist.
 

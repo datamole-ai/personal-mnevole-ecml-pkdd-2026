@@ -1,4 +1,4 @@
-Felicia Lu presented TSLE, a Python toolkit unifying change point detection and state detection for time-series segmentation, with 30+ algorithms, new metrics, datasets, and an interactive demo.
+`<speaker>` presented TSLE, a Python toolkit unifying change point detection and state detection for time-series segmentation, with 30+ algorithms, new metrics, datasets, and an interactive demo.
 
 ### Motivation
 - Change point detection and state detection studied separately despite serving the same problem, with methods scattered across libraries (Ruptures, Aeon, sktime)

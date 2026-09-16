@@ -1,4 +1,4 @@
-Dane (<@speaker:1>) presented Wispr's experiment on closing the salient knowledge gap between LLMs and evolving library versions, comparing "context first" vs "context serving" approaches, and proposed a routing mechanism since neither wins universally.
+`<speaker>` (<@speaker:1>) presented Wispr's experiment on closing the salient knowledge gap between LLMs and evolving library versions, comparing "context first" vs "context serving" approaches, and proposed a routing mechanism since neither wins universally.
 
 ### Problem Framing
 - Salient gap: LLM knowledge lags rapidly-changing library/framework versions (TypeScript, Java, Python), yielding conveniently wrong code.

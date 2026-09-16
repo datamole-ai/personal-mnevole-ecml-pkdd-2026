@@ -1,4 +1,4 @@
-Igor from Zalando presented a cross-modal recommendation system that reuses fashion-store interaction data to power a new video/creator pilot, showing strong A/B lifts.
+`<speaker>` from Zalando presented a cross-modal recommendation system that reuses fashion-store interaction data to power a new video/creator pilot, showing strong A/B lifts.
 
 ### Problem & Approach
 - New video/creator pilot had no interaction data (cold-start, new modality)

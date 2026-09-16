@@ -1,4 +1,4 @@
-Laura presented Antenna, a system that uses LLMs to explain latent patterns from tensor decomposition in natural language, with a validation test to check comprehension. No audience questions followed.
+`<speaker>` presented Antenna, a system that uses LLMs to explain latent patterns from tensor decomposition in natural language, with a validation test to check comprehension. No audience questions followed.
 
 ### Motivation
 - Multi-aspect datasets (e.g. social networks, movie ratings) naturally represented as tensors

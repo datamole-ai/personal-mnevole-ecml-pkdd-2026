@@ -1,4 +1,4 @@
-Sohel presented a two-stage framework for dynamic sales pitch generation in Intuit's contact center: a ModernBERT classifier for pitch timing/phase, plus a fine-tuned LLaMA 3.1 8B generator.
+`<speaker>` presented a two-stage framework for dynamic sales pitch generation in Intuit's contact center: a ModernBERT classifier for pitch timing/phase, plus a fine-tuned LLaMA 3.1 8B generator.
 
 ### Problem & Motivation
 - Intuit contact center experts sell alongside support; top performers convert at several times median rate

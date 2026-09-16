@@ -50,4 +50,4 @@ Let's say the paper was more or less a glossary of the opposite of science and h
 
  We can move to the next slide. A general output platform for end-to-end experimental workflow management and multimodal data acquisition.
 
- The speaker is Andrea.
+ The speaker is `<speaker>`.

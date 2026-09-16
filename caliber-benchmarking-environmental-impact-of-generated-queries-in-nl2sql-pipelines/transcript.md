@@ -4,7 +4,7 @@ Benchmarking environmental impact of generated queries in NLQ SQL pipelines.
 
 ### Speaker 2
 
- So, hi everyone, I'm Jonah Larch, I'm from Wispr. Sorry. And today I will present Caliber, benchmarking the environmental impact of generated queries in NLQ SQL pipelines.
+ So, hi everyone, I'm `<speaker>`, I'm from Wispr. Sorry. And today I will present Caliber, benchmarking the environmental impact of generated queries in NLQ SQL pipelines.
 
  So, as you already know, LLMs demonstrate enough probability in several regions. So, an example can be the LLMs that have seen better performance expected in a specific domain.
 

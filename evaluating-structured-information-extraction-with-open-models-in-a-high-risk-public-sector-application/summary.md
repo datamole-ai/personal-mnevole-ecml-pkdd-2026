@@ -3,7 +3,7 @@ Talk on using open-weight LLMs and VLMs to extract transcript-of-records data fr
 ### Motivation & Constraints
 - Data science program at Manhattan University gets ~550 applications for 20 seats, manually reviewed
 - EU AI Act classifies public-sector application review as high-risk; data cannot be sent externally
-- Work led by Elias Schubert (absent); little training data, only open-weight models viable
+- Work led by `<speaker>` (absent); little training data, only open-weight models viable
 
 ### Approach & Results
 - Task: extract tabular transcript of records (subject, grade, credits) from long heterogeneous PDFs

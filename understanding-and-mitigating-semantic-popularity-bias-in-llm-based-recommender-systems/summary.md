@@ -1,4 +1,4 @@
-Shirai presented EST, a method that mitigates semantic popularity bias in LLM-based recommenders by modeling item-to-item semantic influence via a multi-view graph before applying weighted SFT.
+`<speaker>` presented EST, a method that mitigates semantic popularity bias in LLM-based recommenders by modeling item-to-item semantic influence via a multi-view graph before applying weighted SFT.
 
 ### Problem: Semantic Popularity Bias
 - SFT amplifies popularity bias: top 20% items get ~16% of recommendations

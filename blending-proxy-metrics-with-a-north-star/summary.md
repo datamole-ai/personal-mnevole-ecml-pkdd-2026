@@ -1,4 +1,4 @@
-Vincent presented Netflix's approach to A/B test decision-making: blending a sensitive proxy metric with a noisier North Star, with optimal weighting derived from signal, noise, and sample size.
+`<speaker>` presented Netflix's approach to A/B test decision-making: blending a sensitive proxy metric with a noisier North Star, with optimal weighting derived from signal, noise, and sample size.
 
 ### Problem Framing
 - Netflix innovates via A/B tests, but retention (North Star) is too insensitive for subtle UI/algorithm changes.

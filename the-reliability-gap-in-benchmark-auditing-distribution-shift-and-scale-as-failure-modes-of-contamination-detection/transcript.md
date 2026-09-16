@@ -1,6 +1,6 @@
 ### Speaker 1
 
-So, hello everyone. My name is Wojciech Brzezinski, and I would love to tell you about my work about the learning gap in benchmark auditing. With Jan Dubinski and Sebastian Cygert, we wanted to find out whether statistical tools which are designed to detect whether a model was trained on a given dataset work in the real-world regime, not only in the academic tests.
+So, hello everyone. My name is `<speaker>`, and I would love to tell you about my work about the learning gap in benchmark auditing. With `<speaker>` and `<speaker>`, we wanted to find out whether statistical tools which are designed to detect whether a model was trained on a given dataset work in the real-world regime, not only in the academic tests.
 
  So let me begin with the introduction of our tail, the benchmark contamination. It is a case when a public benchmark—want you evaluate your favorite element, like GSMK 8 or something like that—leaks into the training data.
 

@@ -1,4 +1,4 @@
-Miro Kahl (Amadeus) presented PAE, a procedure-aware evaluation framework for AI agents, showing that 27-78% of reported successes are "corrupt" — correct outcome, violated procedure.
+`<speaker>` (Amadeus) presented PAE, a procedure-aware evaluation framework for AI agents, showing that 27-78% of reported successes are "corrupt" — correct outcome, violated procedure.
 
 ### Corrupt Success Problem
 - Flight rebooking case: correct $890 charge, but agent quoted $320, skipped cancellation consent, hallucinated flight time
@@ -17,4 +17,4 @@ Miro Kahl (Amadeus) presented PAE, a procedure-aware evaluation framework for AI
 
 ### Next Steps
 - Try the open-sourced Agent Theory Discovery tool to auto-generate error taxonomies from agent logs
-- Catch Miro Kahl's 4 follow-up papers at October conferences
+- Catch `<speaker>`'s 4 follow-up papers at October conferences

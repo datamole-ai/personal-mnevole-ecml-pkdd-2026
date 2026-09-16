@@ -1,6 +1,6 @@
 ### Speaker 1
 
-Good morning, everyone. I'm Sia, and I'm from the Career Learn, and today I'm happy to introduce our paper, "Walking and Catching Subtitles Between Time Series." So, what is a flow?
+Good morning, everyone. I'm `<speaker>`, and I'm from the Career Learn, and today I'm happy to introduce our paper, "Walking and Catching Subtitles Between Time Series." So, what is a flow?
 
  We're interested in making the relationship between time series more interpretable, or more specifically, we want to find— we want to match the similar patterns between time series while still capturing the differences in their starting time or their running speed. For example, this here: we have two washing cycles that start at different times, so we're able to capture this difference.
 

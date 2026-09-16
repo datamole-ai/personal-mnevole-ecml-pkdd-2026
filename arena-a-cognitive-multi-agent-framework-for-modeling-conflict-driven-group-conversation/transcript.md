@@ -62,7 +62,7 @@ Okay, I'm going to do this instead: multi-uh, multi- multi-positional data.
 
  So that is how people really behave, uh, when you wait for a while before you actually change your, change your mind.
 
- So here is, uh, one of the examples that we extracted, uh, from one generated conversation that actually we can see from the, from the three actors, Alexi and Joan. We see that Alexi probe, uh, works.
+ So here is, uh, one of the examples that we extracted, uh, from one generated conversation that actually we can see from the, from the three actors, `<speaker>` and `<speaker>`. We see that `<speaker>` probe, uh, works.
 
  Uh, has a, uh, personal that's supported, and Marian is on the interface. But as the conversation goes on from the, uh, turns 28 to turns 32, we can see that Marian, uh, Marian actually got frustrated.
 

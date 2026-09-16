@@ -4,9 +4,9 @@ It's possible to try to finish in 30, 40 minutes, so we have 1, 2 questions for�
 
 ### Speaker 2
 
- All right. Thank you so much. My name is Marian D'Ruzzo, and I'm a professor of the data science at the University of Toronto, Sydney, in Australia.
+ All right. Thank you so much. My name is `<speaker>`, and I'm a professor of the data science at the University of Toronto, Sydney, in Australia.
 
- This presentation today—Brexit means Brexit—is a joint work with Christina Lajon from the University of Sandton here in the audience, and our two very good master's students from a couple of years ago. So what we're doing today: we are looking at the following question.
+ This presentation today—Brexit means Brexit—is a joint work with `<speaker>` from the University of Sandton here in the audience, and our two very good master's students from a couple of years ago. So what we're doing today: we are looking at the following question.
 
  Does engagement with opposing teams change political opinion online? So if you think a bit about this, most of the state-of-the-art—not most—of the research created work studies opinion dynamics and scam tradition in what we call broadcast platforms, so micro- or microblogging, things like Twitter, X, where there's a couple of—there's a couple of dynamics there.
 

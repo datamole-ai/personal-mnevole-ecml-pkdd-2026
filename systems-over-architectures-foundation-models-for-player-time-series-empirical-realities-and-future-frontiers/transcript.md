@@ -92,7 +92,7 @@ I'm very excited to be here for a couple of reasons. One is that I've talked to 
 
  So, like, let's go for a base use. But then transformer, like, you know, has come out on all different domains very well, but was not, like, used as well on handler.
 
- And actually, in collaboration with Zeppelin and Sloane, we looked at, we looked at different scales of data and to see what's, like, in which scenario does actually transformers could be a better model.
+ And actually, in collaboration with `<speaker>` and `<speaker>`, we looked at, we looked at different scales of data and to see what's, like, in which scenario does actually transformers could be a better model.
 
  And what we saw is that, like, when we scaled over 100k samples, actually, transformers started showing better performance on their base use. And most of the datasets that, like, the analysis were presented previously, they were on a smaller scale.
 
