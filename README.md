@@ -4,11 +4,11 @@ Personal notes from 53 presentations attended by Marek Nevole at [ECML PKDD 2026
 
 [Conference](https://ecmlpkdd.org/2026/) · [Proceedings](https://ecmlpkdd.org/2026/proceedings/)
 
-Each presentation folder contains a `README.md` with metadata and verified links, plus the original Wispr Flow `summary.md` and `transcript.md`. This is an unofficial, partial collection, not the conference proceedings.
+Each presentation folder contains a `README.md` with metadata and verified links, plus Wispr Flow’s original `summary.md` and refined `transcript.md`. This is an unofficial, partial collection, not the conference proceedings.
 
 ## About these notes
 
-The summaries are exported unchanged from Wispr Flow’s saved Markdown. Transcripts contain the exact saved refined text segments in their original order, separated by blank lines; no wording has been corrected or regenerated. Automatic summaries and transcripts may contain recognition errors, incorrect names, and unresolved speaker tokens. Metadata is checked separately against the program and paper sources.
+The summaries are exported unchanged from Wispr Flow’s saved Markdown. Transcripts contain the exact saved refined text segments in their original order, separated by blank lines and Markdown speaker headings (`Speaker 1`, `Speaker 2`, etc.). Speaker labels follow Wispr Flow’s assignments within each recording; speaker names are omitted from the labels. No transcript wording has been corrected or regenerated. Automatic summaries and transcripts may contain recognition errors, incorrect names, and unresolved speaker tokens. Metadata is checked separately against the program and paper sources.
 
 Paper and repository availability was checked on September 12, 2026. Missing links mean no matching public version was verified, not that none exists. The seal-strength workshop recording has a descriptive title and an explicitly unverified paper identity.
 

@@ -1,3 +1,5 @@
+### Speaker 1
+
 Hello, hi, this is Marek Nevole from International. Today I'm here to talk about Wispr Flow, and we have two valuables in our product: Wispr Flow and the product called Wispr Flow. The main motivation of our work is that in existing data systems we use different propagation strategies to extend the knowledge-generated responses, uh, by estimating the context unit importance, but they completely ignore, uh, whether the Wispr documents are actually relevant.
 
  And by see- by passing the HRL documents to the model, we made the model, uh, is generating the responses with some, uh, less, um, confidence, less, less confidence. That leads to unreliable explanations, where we cannot determine if the generated answer is actually grounded in the, the Wispr documents, which we consider data as relevant or irrelevant.
@@ -53,5 +55,7 @@ Hello, hi, this is Marek Nevole from International. Today I'm here to talk about
  So here if we see the unit between all these three, uh, scoring strategies is same on the, uh, on the particular unit that has been highlighted, then we can rely on that particular unit and consider that unit is actually, uh, the most important unit the model is relying on. So if you're curious to know more about our, uh, framework, please join the interactive lab.
 
  Thank you.
+
+### Speaker 2
 
  Any question? Any question? Okay.

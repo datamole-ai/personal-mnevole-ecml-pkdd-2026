@@ -1,3 +1,5 @@
+### Speaker 1
+
 And I can introduce you to Frith, a new software to analyze, detect, and explain concept drift. Okay, so first, as an introduction: what is concept drift? Concept drift is a change of relationship between the input and output data.
 
  So how does it influence our models? This causes the models to decay, and, kind of, there's a need to retrain or adapt the model.
@@ -60,11 +62,19 @@ And I can introduce you to Frith, a new software to analyze, detect, and explain
 
  And if you have any questions, I will be very happy to answer them. Thank you.
 
+### Speaker 2
+
  Thank you for your invitation.
+
+### Speaker 1
 
  Yes.
 
+### Speaker 2
+
  Is there any kind of modulation method? How does it affect the size of blocks?
+
+### Speaker 1
 
  How does it affect, generally? No, we don't have such a tool. Kind of, right now, we experimented with a couple block types.
 
@@ -72,7 +82,11 @@ And I can introduce you to Frith, a new software to analyze, detect, and explain
 
  That's the only experiment I can give you for now.
 
+### Speaker 2
+
  Also, when you look at the importability layer, there's false positive. What kind of layers are false positive?
+
+### Speaker 1
 
  So false positive in terms of the drift detection. Okay, so here, I'd say that this may be the way where these layers interact. So you can see that if a prototype analysis tells you, "Okay, there is a drift here," then you can see that the decision boundary rotates.
 
@@ -82,7 +96,11 @@ And I can introduce you to Frith, a new software to analyze, detect, and explain
 
  So this is this interaction that I was talking to you about.
 
+### Speaker 2
+
  But how is it affected by?
+
+### Speaker 1
 
  Well, DDM is not perfect, as we know. We kind of want to extend it with also APIs. As far as you know, this is kind of the guide to beat right now.
 
@@ -90,7 +108,11 @@ And I can introduce you to Frith, a new software to analyze, detect, and explain
 
  Yes.
 
+### Speaker 2
+
  What are some of the work you have in the future?
+
+### Speaker 1
 
  Okay, so if the because these are consecutive. So we are analyzing, like, consecutive or next to each other, basically, blocks. So I guess you could experiment, right?
 
@@ -98,17 +120,27 @@ And I can introduce you to Frith, a new software to analyze, detect, and explain
 
  Because I guess your question is, what if we set the block size too high, and then the drift is, like, in between the blocks, and then you don't detect it. So then we would have to experiment with those.
 
+### Speaker 2
+
  Is there a slight way to adjust for example 400, 100, 200, or 100, or maybe you can see the?
+
+### Speaker 1
 
  Okay, I guess that's also an interesting idea. Yeah. Thank you.
 
  Yep.
 
+### Speaker 2
+
  And just a quick question.
 
  We know that there are a couple of drift detection tools right now that are available, like the NDS one. How do you compare the work with them, and in which aspect you are special, more special than the.
 
+### Speaker 1
+
  Okay, I don't know the drift detection tool. Maybe Professor Neil knows this one.
+
+### Speaker 2
 
  Okay, I will ask a quick question as a follow-up. Also, drift detection is not the main message from the software. We are focusing on explaining risks of the drift.
 
@@ -118,12 +150,20 @@ And I can introduce you to Frith, a new software to analyze, detect, and explain
 
  So we are around it, not inside drift detectors.
 
+### Speaker 1
+
  Yes. I don't know where, but.
+
+### Speaker 3
 
  I just had a I work on this project, and I had a comment to that question. Because I worked on drift I was responsible for drift detection, and there was a question of what if the blocks are in the right size and the drift doesn't get detected, right? So we have except for DDM, we also have a second drift detection that describes every window.
 
  So we would see that difference with the prototype methods. If one fails, the other would one would succeed.
 
+### Speaker 1
+
  So thank you for a very interesting discussion, and I welcome you to visit our stand and continue the discussion. Thank you.
+
+### Speaker 2
 
  Also, much breath for further discussion this evening. Okay, now we can move to the next presentation.

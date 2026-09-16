@@ -1,3 +1,5 @@
+### Speaker 1
+
 Let's first start with Wispr. So Wispr Flow is actually— in some applications they are known as written labels. So a concrete web format is a system of data records in a computer machine that can write a written object.
 
  However, it is very challenging to incorporate geometric information into these backbones that they have written on their computers. For example, if I take a format if it's a grid in a config, then the shelf degrees of these metrics should not be selected as normally.
@@ -56,19 +58,31 @@ Let's first start with Wispr. So Wispr Flow is actually— in some applications 
 
  So this is all for today's presentation. Thank you.
 
+### Speaker 2
+
  We have time for questions, please.
 
+### Speaker 3
+
  Did you try adding some contextual information, something that can be read by the LLM? I don't know if there are real datasets that can give contextual information about the phase or the status of the component or some documents, or are you using only the concepts?
+
+### Speaker 1
 
  Actually, we visualize the factors and then get the plots and figures, and we thought that they can get better results. We also incorporate some business context that we can take in, and then we do the quality of the. To create these kind of neural networks and this should be selected.
 
  So that's the reason why we're coming up here in the first stage.
 
+### Speaker 2
+
  Thank you.
+
+### Speaker 3
 
  Thank you for your time. I have one question about your results. Maybe I'm missing it.
 
  Can you explain a little bit more what exactly is the underlying data that we see in the context? What is this problem that we're talking about?
+
+### Speaker 1
 
  Okay. For the first comparative time, in our previously production method, we did this on the random forest. And we incorporate some business context and the photo processing.
 
@@ -83,5 +97,7 @@ Let's first start with Wispr. So Wispr Flow is actually— in some applications 
  So we can see the perception for the result. And the third set of the baseline here we use the same as the first set where we labeled the data from.
 
  So this is the first.
+
+### Speaker 2
 
  Thank you again.

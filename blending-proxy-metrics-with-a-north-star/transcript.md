@@ -1,3 +1,5 @@
+### Speaker 1
+
 Okay, um, hello—uh, my name is Vincent. I'm here to comment on the data science of Netflix.
 
  I'll start by giving a bit of context. So, at a company like Netflix and maybe some of the companies in the box that you all work at, the main mechanism that we use to innovate on our product is through experiments that we might call "themed tests."
@@ -60,7 +62,11 @@ Okay, um, hello—uh, my name is Vincent. I'm here to comment on the data scienc
 
  However, if you have worse proxy metrics, then you need to run bigger experiments and do really powerful North Star, and that means we have to run bigger experiments.
 
+### Speaker 2
+
  Can I get a quick snack break?
+
+### Speaker 1
 
  Okay, by the way, I've got time, so I'll kind of belabor the point a bit more. Here are some simulation results. So on the left-hand side there, these are the returns that arise from the decision rules that say, "Only launch on the proxy or launch on the North Star."
 
@@ -106,11 +112,15 @@ Okay, um, hello—uh, my name is Vincent. I'm here to comment on the data scienc
 
  And then we have an estimator in the paper that shows how to estimate what those rates would be if you have optimal experiments.
 
+### Speaker 2
+
  Any questions from the audience?
 
  So I didn't ask the question. So you said North Star metric is something which helps in business development or business improvement.
 
  And then you said plays is a North Star metric, and a kick is a proxy. So how they are a play and a kick are different in business development and marketing levels?
+
+### Speaker 1
 
  Yeah, it's maybe it's an oversimplification of my part of the discussion into layers of North Star and proxy. I think in practice maybe a better metaphor is like a ladder or a hierarchy or a funnel, if you will. So at the overall, like, Netflix business level, I think our ultimate North Star would be something like long-term revenue, for example.
 
@@ -121,5 +131,7 @@ Okay, um, hello—uh, my name is Vincent. I'm here to comment on the data scienc
  What they wanted was just plays with their content that would indicate that, like, you've reached a high value from this kind of area. So that's why it's smaller.
 
  But Netflix-wide, yeah, our North Star is more than 50%.
+
+### Speaker 2
 
  Thank you. Any more kids? Okay, let's thank the speaker.

@@ -1,4 +1,8 @@
+### Speaker 1
+
 Benchmarking environmental impact of generated queries in NLQ SQL pipelines.
+
+### Speaker 2
 
  So, hi everyone, I'm Jonah Larch, I'm from Wispr. Sorry. And today I will present Caliber, benchmarking the environmental impact of generated queries in NLQ SQL pipelines.
 
@@ -57,6 +61,8 @@ Benchmarking environmental impact of generated queries in NLQ SQL pipelines.
  In particular, we know that evaluating and measuring the exact performance of LLMs to get the results is a very complex problem. So in this region, we would like to try to solve this problem, and then we want to have more LLMs and DPPNS better.
 
  Thank you very much.
+
+### Speaker 1
 
  Thanks for the presentation. Any questions from the audience?
 

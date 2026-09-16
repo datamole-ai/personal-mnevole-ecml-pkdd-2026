@@ -1,3 +1,5 @@
+### Speaker 1
+
 Okay, so, hi everyone. My name is Simone Carpentier, and I'm a PhD student between Polytechnic Torino and UW France. So today I'm going to present you this demo; it's called CAP Studio, and this is a framework that automatically generates text to sequel and tabular response with benchmarks, starting from any kind of tabular data.
 
  For the folks that are not familiar with this task, these are, in theory, pretty simple. So you start with a natural language question and a database, and the output is a sequel query in the first case, so for text to sequence, for text to sequel, or the actual answer in the case of the second task, so the tabular response framework.
@@ -37,6 +39,8 @@ Okay, so, hi everyone. My name is Simone Carpentier, and I'm a PhD student betwe
  Okay, so you can try yourself. I think we will also be here around 5, but if you want to try it, this is on hiring days, and we're just having a little bit of a change soon after.
 
  So if you have any questions, I'm open.
+
+### Speaker 2
 
  So can you show me the question?
 

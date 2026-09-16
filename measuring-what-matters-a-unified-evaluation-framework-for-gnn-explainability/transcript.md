@@ -1,4 +1,8 @@
+### Speaker 1
+
 So the first presentation is "Measures that Matter": a unified evaluation framework for genuine explainability, from Francesco Paolini to Tom Sapienti.
+
+### Speaker 2
 
  Hello everybody. I'm Stefan Pasquale Marini, I'm from Sapienti University, and this is our roundtable with people at Wispr Flow, which is a bank, and since we're in live at Wispr, I'm going to start with a bank example: a machine learning task, which is based on transaction actors. Transaction actors: nodes are bank users, bank accounts, which exchange money, monetary transactions with one another, and we might be interested in many possible machine learning tasks from this kind of data, such as, for example, a node classification task where we
 
@@ -70,11 +74,19 @@ So the first presentation is "Measures that Matter": a unified evaluation framew
 
  I'm sorry for the addition. Do we have time for two minutes for questions?
 
+### Speaker 3
+
  Thanks for the nice talk. Could you explain what corresponds to graph neural networks, how we measure perception, from what I get to how that metric reflects the graph experience? How do you measure that, how trustworthy is that metric?
+
+### Speaker 2
 
  Yeah. The word metric, or first of all, what is the explanation of the metric?
 
+### Speaker 3
+
  I don't know how to graph perception. How do you measure it?
+
+### Speaker 2
 
  What we did was based on. Studies for that, and still go harder, but I don't know how much there could be understood easily, but I think that's good. Basically what we did was we compared the ranking produced by the explanation to what the ranking produced by a random explanation, so just a perturbation, a random perturbation, yeah, a random perturbation of the explanation, the order.
 
@@ -82,20 +94,36 @@ So the first presentation is "Measures that Matter": a unified evaluation framew
 
  And this is why early stopping helps, because then we can just iterate on an explanation until we reach convergence on the value of the metric.
 
+### Speaker 3
+
  Okay. That gives me some information. Thanks.
+
+### Speaker 2
 
  Okay.
 
+### Speaker 3
+
  Questions?
 
+### Speaker 2
+
  I have a question. Since this is a work trying to unify different edges and depending observations on graphs, are there any challenges in unifying these metrics since they are different from the edges, and also that helps the experiments that we're trying to use?
+
+### Speaker 3
 
  Well, first of all, there was a problem that, of course, these metrics were defined on a region in the current domain, so they needed to be translated, and as I was saying before, we had some problem with the computational cost of these metrics. So trying to understand what kind of early stopping would work and were effective in estimating these measures.
 
  And secondly, the fact that given the fact that a full unification in this case is impossible, because in the end, the mechanism producing the features explanation, the edge explanation, are completely independent. So having to handle also the complexity of two independent mechanisms was also something to handle, and we tried to do that through the operator of the tiers for the evaluation across different aspects of the same explainer.
 
+### Speaker 2
+
  Thank you.
 
+### Speaker 3
+
  Okay.
+
+### Speaker 2
 
  Let's have the speaker again.

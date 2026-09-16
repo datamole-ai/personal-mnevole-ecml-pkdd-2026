@@ -1,3 +1,5 @@
+### Speaker 1
+
 This is Nadine Foster from McGuire University in Australia, and today I'm presenting, uh, the game of Flynt. Well, a larger push for lawbooks has been increasingly deployed in adversarial settings that include penetration testing, automated negotiation, and fraud prevention. And the power of these models really lies in their capability to evolve and adapt, because opponents are not static, and a strategy that's working today might be countered tomorrow, which requires constant and consistent adaptation, and which a training cycle cannot provide efficiently.
 
  Um, in this work we're studying the capability of large language models to learn from structured feedback without any training, and we base our study on, as can, um, attacks—uh, use cases—where malicious actors always adapt and evolve their strategies. Um, well, at scale attacks really pose very significant pressure on financial and, uh, systems and individuals.
@@ -70,31 +72,53 @@ This is Nadine Foster from McGuire University in Australia, and today I'm presen
 
  We can see that they converged to Nash equilibrium, and in conclusion, we actually proved that large language models can adapt and evolve using structured feedback without training.
 
+### Speaker 2
+
  Thank you very much.
+
+### Speaker 3
 
  Questions.
 
+### Speaker 4
+
  Yeah. So—sorry. Which model was the third one?
+
+### Speaker 3
 
  The model that's outperforming is the DeepSeek.
 
+### Speaker 4
+
  Okay.
+
+### Speaker 5
 
  And so related to that question, Marek, basically you just put GPT-4, GPT-5, which regions?
 
  Because now there are 10 regions of performance for Nash equilibrium. So you tested it with 4, but now there is 5, 5.6, 6, and so on, so you cannot see that on the slides.
 
+### Speaker 3
+
  Yeah. So no. We, of course, large language models are part, like, that you adapt very quickly and they've got better models.
 
  But we just tested capabilities, and we—of course it can change, but we know that it's not depending so much on the size of the model but rather on the architecture of the model.
 
+### Speaker 4
+
  Okay. What regions of the slide do you have a sense of the—
 
+### Speaker 3
+
  Which one?
+
+### Speaker 4
 
  The last one.
 
  The big one, the convergence.
+
+### Speaker 3
 
  This is the convergence one. Yes. So for this we used two parameters.
 
@@ -112,6 +136,10 @@ This is Nadine Foster from McGuire University in Australia, and today I'm presen
 
  But in general, the diversity is getting smaller, and the convergence is getting better. Yeah.
 
+### Speaker 2
+
  Thank you very much. And thank you also for asking exactly these questions.
+
+### Speaker 3
 
  Thank you so much.

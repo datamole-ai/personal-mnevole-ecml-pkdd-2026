@@ -1,3 +1,5 @@
+### Speaker 1
+
 Hello. This is a tester from my family. I imagine there's a serious connection between the coder and the data dynamics, which is good for teachers.
 
  The company is a little bit long, and it's a combination of work of the student, like the student docent, dental, and the volunteer, and also a couple of my colleagues. My name is Daniel Yu.
@@ -130,8 +132,14 @@ Hello. This is a tester from my family. I imagine there's a serious connection b
 
  So that's the prediction message. And this is a very good, interesting look at the.
 
+### Speaker 2
+
  Can I require just one question?
 
+### Speaker 1
+
  Yes.
+
+### Speaker 2
 
  One question.

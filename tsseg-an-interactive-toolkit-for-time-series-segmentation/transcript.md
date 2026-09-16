@@ -1,3 +1,5 @@
+### Speaker 1
+
 Okay. Thank you so much for having me. So, my name is Felicia Lu.
 
  I'm a PhD student at the University of Wispr and the Faculty of Engineering. I'm happy to present you this work, so TSLE, which is a light toolkit for time-series segmentation.
@@ -32,7 +34,11 @@ Okay. Thank you so much for having me. So, my name is Felicia Lu.
 
  Superb remarks or want to make some contributions, these are very welcome. Thank you.
 
+### Speaker 2
+
  Yeah, of course. We deal with multiplied items, so it's basically the universe of the subcase, multiplied item series, so everything works with multiplied items.
+
+### Speaker 3
 
  So thanks. Thanks for the great job. I'm just.
 
@@ -44,17 +50,29 @@ Okay. Thank you so much for having me. So, my name is Felicia Lu.
 
  So just wanted to see what we have here for that.
 
+### Speaker 1
+
  Yeah, right. Thank you for the question. Of course, so Virtuo only deals with change point detection algorithms, and mostly a subfamily of them, so we also have state detection algorithms, so we also have this layer of clustering the subsequences.
 
  So, yeah.
 
+### Speaker 3
+
  Meaning that here you have, like, kind of what you mentioned added structured package.
+
+### Speaker 1
 
  Yes, yes. It's both together. And also in the benchmark, an interesting thing that we show is that there's not only one way to identify states, and that the best and only way to do that is to first perform change point detection and then clustering the induced subsequences, rather than only saying.
 
+### Speaker 3
+
  Just to ask one quick thing. Is that super concerning for most people, especially in the US? Or is it just working with supervised model or related to the language policies?
 
+### Speaker 1
+
  Yeah, so some of the methods only work supervisedly, so you need to determine the number of exact change points or the number of exactly states. But a question of a large fraction of them also works in supervisedly, which is the most context that we usually base. And.
+
+### Speaker 3
 
  Thank you. Thank you.
 

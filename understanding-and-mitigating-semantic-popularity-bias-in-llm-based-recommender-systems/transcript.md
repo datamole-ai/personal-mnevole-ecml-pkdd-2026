@@ -1,3 +1,5 @@
+### Speaker 1
+
 Good morning, everyone. I'm Shirai, and I'll just jump in quickly. Today I'm looking at a small work on signing and leveraging medical reality to arts and literary appraisal in manifested language.
 
  Our culture of concentrated observation says that art recommended doesn't simply inherit the popularity of eventual items; it inherits the ones of unlearning. Popularity has grown through thematic relationships and amplified the cultural obtaining attitude.
@@ -90,8 +92,12 @@ Good morning, everyone. I'm Shirai, and I'll just jump in quickly. Today I'm loo
 
  Thank you very much.
 
+### Speaker 2
+
  Thank you, China. And do we have any questions? We have time for one or two questions.
 
  I can start. Do you see the applicability of this also in different domains like engineering, or like NAMA engineering, aerospace engineering?
+
+### Speaker 3
 
  So we're using Epsilon test side and not using it in a real-use system. One is to create a multi-view semantic graph. It's very.

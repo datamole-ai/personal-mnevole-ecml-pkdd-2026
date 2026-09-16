@@ -1,3 +1,5 @@
+### Speaker 1
+
 Can you hear me? Okay. So, the doc like interface for document layout analysis and interaction.
 
  This is the architecture of the system, and it performs document segmentation through Claude, as you can see on the left, and it also works with a lot of documents. And the tool integrates post-documentology to perform checks among the three elements.
@@ -32,14 +34,24 @@ Can you hear me? Okay. So, the doc like interface for document layout analysis a
 
  Okay, this is it. Thank you.
 
+### Speaker 2
+
  Okay.
 
  Any questions?
 
+### Speaker 3
+
  Yeah, just a few. You said the framework was for other kinds of documents, not only scientific papers?
+
+### Speaker 1
 
  This framework works just with scholarly documents, because the segmentation engine that is provided works with scientific documents only. We tested it on PubMed, on DENSE article datasets, just datasets for scholarly documents.
 
+### Speaker 2
+
  Okay. Thank you.
+
+### Speaker 3
 
  We can move to.

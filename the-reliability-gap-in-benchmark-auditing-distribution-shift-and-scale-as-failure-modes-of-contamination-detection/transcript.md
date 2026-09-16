@@ -1,3 +1,5 @@
+### Speaker 1
+
 So, hello everyone. My name is Wojciech Brzezinski, and I would love to tell you about my work about the learning gap in benchmark auditing. With Jan Dubinski and Sebastian Cygert, we wanted to find out whether statistical tools which are designed to detect whether a model was trained on a given dataset work in the real-world regime, not only in the academic tests.
 
  So let me begin with the introduction of our tail, the benchmark contamination. It is a case when a public benchmark—want you evaluate your favorite element, like GSMK 8 or something like that—leaks into the training data.
@@ -70,22 +72,32 @@ So, hello everyone. My name is Wojciech Brzezinski, and I would love to tell you
 
  And that was also from my side. Thank you for your attention, and I'm happy to answer your questions.
 
+### Speaker 2
+
  So I have one. So the—that's a very interesting topic for research, because benchmarking is the kind of the war right now of information models that are running on. And trying to find the various contamination on these models is an interesting task to do.
 
  So I see that you worked mostly with commercial models, but with open dataset. Do you think it can be applied also for API models?
 
  Towards the commercial models, but this methodology is—should it be explored more also in these development models?
 
+### Speaker 3
+
  So we work on the models also really used by the commercial companies. However, the key finding is the access to that model, whether it is a white box when you've got access to parameters and everything, or the black box when you do not have access to the nothing except from the output tokens, or you've got that gray box setup, which is most popular in that field, that you do not have access to the model weights, to the gradient, but you've got access to the token probabilities. And
 
  most of the current work is rather realistic in that gray box setup. So even though the model is shared via APIs, some APIs share block proxy probabilities for different tokens, these methods are applicable. And I think it's also applicable to further research to extend that evaluation to that gray box model, especially with the huge development of popularity of API solutions.
+
+### Speaker 2
 
  Any other questions? Speaker? Yes.
 
  Do you think it could be used in the environment, like to actually detect open and private models to depend on certain datasets?
 
+### Speaker 3
+
  I think yes. I think so, for sure you can use it as a white. However, it's rather an premise than a guarantee.
 
  Like, we've got some hint if you've got an outlier in that matrix combined, you can hide your kind of quite big suspections about that it might shift a little bit by training on a one benchmark. However, with current state of the work, it's just like you've got that hint for an outlier, but you do not have that guarantee that you're sure about it.
+
+### Speaker 2
 
  So thank you.

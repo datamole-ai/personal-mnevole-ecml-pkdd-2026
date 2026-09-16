@@ -1,4 +1,8 @@
+### Speaker 1
+
 It's possible to try to finish in 30, 40 minutes, so we have 1, 2 questions for—
+
+### Speaker 2
 
  All right. Thank you so much. My name is Marian D'Ruzzo, and I'm a professor of the data science at the University of Toronto, Sydney, in Australia.
 

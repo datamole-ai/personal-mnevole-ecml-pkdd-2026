@@ -1,3 +1,5 @@
+### Speaker 1
+
 Okay, uh, thank you. So good afternoon everyone. My name is Mahul, so I'm from the University of Manchester.
 
  I'm at the Department of Social Statistics, so I will present my paper, "Understanding the Technology of Quantum Data Synthesis: Starting Fast and Sampling." So, yeah.
@@ -148,7 +150,11 @@ Okay, uh, thank you. So good afternoon everyone. My name is Mahul, so I'm from t
 
  Thank you. Terima kasih.
 
+### Speaker 2
+
  So in this, uh, can you please give a summary of how you calculate the utility?
+
+### Speaker 1
 
  Uh, yeah, so basically, yeah, the utility consists of, uh, yeah, I can think of them. Uh, so, uh, yeah, so the first one is ratio of counts. Basically it's just, like, so you can imagine, like, frequency table.
 
@@ -165,5 +171,7 @@ Okay, uh, thank you. So good afternoon everyone. My name is Mahul, so I'm from t
  But we can extract the data and we can interpret the results. So what I did in here is, like, okay, I get the data, I get the confident interval of the data, and then I compare it in synthetic data and, uh, real data.
 
  I think, like, it's nice to do because, like, uh, especially in really because, like, I'm in social stats, so basically social, social sciences, mostly we do, like, inference, like, on the parameters. That's why I focus, like, on the utility on this instead of, like, doing some machine learning.
+
+### Speaker 2
 
  Thank you.

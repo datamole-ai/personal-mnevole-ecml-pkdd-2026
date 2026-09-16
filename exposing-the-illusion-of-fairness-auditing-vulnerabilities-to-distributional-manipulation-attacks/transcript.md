@@ -1,3 +1,5 @@
+### Speaker 1
+
 Thanks a lot. So, the main issue I would like is Wispr Flow, and then. In municipality, a lot, and cutting the distance, not necessary for in terms of economic recommendation, but is additive actually possible?
 
  Is there a problem with additive? First, we present the setting of the edits.
@@ -96,13 +98,21 @@ Thanks a lot. So, the main issue I would like is Wispr Flow, and then. In munici
 
  Thank you. We have questions.
 
+### Speaker 2
+
  Hi. Thank you for the presentation. Did you guys get to understand the characteristics of your dataset or more in line on the changes that you've noticed?
 
+### Speaker 1
+
  Yeah. I mean, I wish distributional distance was more compact for the training.
+
+### Speaker 2
 
  Yeah. But beyond that, you are away from so you are assuming that the data sample is good enough, is representative of the original context only by the distributional only by distribution. Have you looked into other characteristics of that data?
 
  Because you might have the same distribution, but not sometimes maybe the same decision boundary and so on. So did you notice anything special about the difference in the datasets that probably caused the difference on the impact on the results?
+
+### Speaker 1
 
  Yeah. Thanks for the great question. There's two answers to that.
 
@@ -114,6 +124,10 @@ Thanks a lot. So, the main issue I would like is Wispr Flow, and then. In munici
 
  And for that reason, not a lot of manipulation are actually necessary to change the fairness metric value. And so this characteristic of the sensitive value and the outcome decision definitely have an impact on the results.
 
+### Speaker 3
+
  More questions?
+
+### Speaker 1
 
  So let's.

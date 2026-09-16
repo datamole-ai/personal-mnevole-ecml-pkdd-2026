@@ -1,3 +1,5 @@
+### Speaker 1
+
 Okay, it's great to be here with you today. We're joining you on the platform for the Wispr practice, and it's a collaboration with Rowan Huxley and Chair Ian Foster of the School of Computer Science and School of Politics and International Relations at UCD. And with today of our listeners who are joining for the practice of government and public policy at the University of Strathclyde in Glasgow.
 
  So I'll introduce a problem. In one week, the European Parliament—and we're very, very good at trying to make information available to the public—we'll live-stream about 40 hours of video on the internet, I think about 450 in the U.S. available to the public, and all of this is across 24 different official languages.
@@ -48,9 +50,13 @@ Okay, it's great to be here with you today. We're joining you on the platform fo
 
  Thank you.
 
+### Speaker 2
+
  So okay, it's kind of set changing is there, right? Sure, you have a couple of user groups and so on. So do you add any kind of, like, added value on the top of it, right?
 
  So at the end, you know, me as a citizen I'm lost in all this information, right? So yes, if I have endless time, technically I can work through all of it, but do you provide something where I would get insights?
+
+### Speaker 1
 
  Sure. So, I mean, the general intention is that you would ask questions in natural language. Who are the entities who represent me?
 
@@ -64,17 +70,31 @@ Okay, it's great to be here with you today. We're joining you on the platform fo
 
  So I think the question is about.
 
+### Speaker 2
+
  Well, this is kind of an astute, right? But now, since you have all the information there and so on, and all this magic relevant tools, right, which I'm sure you're using, right, do you, let's see, if my setting would be I have exactly 3 minutes and I would learn something, I want to learn something, could you provide me the answer so that you spend only 3 minutes of my time?
+
+### Speaker 1
 
  Yeah, I mean, that's very much the intention, right? You ask a question, you get a synthesized, summarized insights from across all of the data, which would not be accessible to everyone.
 
+### Speaker 2
+
  Okay, I—
+
+### Speaker 1
 
  You know exactly what it is. You can try it out.
 
+### Speaker 2
+
  I already tried it. I've already tried it.
 
+### Speaker 1
+
  Thank you.
+
+### Speaker 3
 
  Any other questions? I'll say anything on this question, so we can move on to the next one. AN10A.
 

@@ -1,14 +1,24 @@
+### Speaker 1
+
 Is Julian Renfrew, and did he present a different enterprise chart for us than the one we're looking at here? So, my name is Dane. I'm here to talk about the roadmap for developing Wispr Flow and Wispr.
 
  Let me start off with one more thing: there were exactly 22 minutes of talking in one and the other one was being interrupted. So, I'll present to you an idea of mine.
 
  We have the business of—
 
+### Speaker 2
+
  Is this the outlet?
+
+### Speaker 1
 
  Is it okay now?
 
+### Speaker 2
+
  Yes.
+
+### Speaker 1
 
  Okay. So, we have the business of 9 people from one base in Wispr, and today I'm here to talk about one of the problems that we're facing within our own ecosystem and how we're solving for it.
 
@@ -62,7 +72,11 @@ Is Julian Renfrew, and did he present a different enterprise chart for us than t
 
  So there is no, what this experiment suggests is there is no super build that context is always going to win. Rather.
 
+### Speaker 3
+
  I'm reaching for.
+
+### Speaker 1
 
  So just to summarize, you know, of course, the limitations of this approach that you might ask is that the opposite is pretty small, like 30 pounds, and we're already out on, of course, maybe a little bit. This is still working from this work that we're still doing out from, you know, the second box that you see between the two at this very soon. Right now, of course, we're not comparing apples with apples, right?
 
@@ -76,6 +90,10 @@ Is Julian Renfrew, and did he present a different enterprise chart for us than t
 
  I don't think there are any questions.
 
+### Speaker 4
+
  Questions?
+
+### Speaker 1
 
  Thank you.

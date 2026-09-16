@@ -1,3 +1,5 @@
+### Speaker 1
+
 My name is Miro Kahl, and I'm a senior research scientist from Avios, a leading technology company in travel industry. And as you may have seen many talks already about how they improve the benchmark for COVRs and how AI is becoming more smart, this talk is about how that got started.
 
  So, here is a case study that we have. We have a user, a real user, who asked to rebook the flight, and the AI agent helped the user.
@@ -122,15 +124,25 @@ My name is Miro Kahl, and I'm a senior research scientist from Avios, a leading 
 
  In October, I'm going to present these 4 papers. So if you are going to meet me at any of these conferences, feel free to pass and say hi.
 
+### Speaker 2
+
  Can we see the paper? So, questions.
+
+### Speaker 3
 
  First of all, thank you for the presentation and your information. My question is related to, I mean, your procedures. Some of the aspects are very subjective.
 
  I think you know everything is objective. So if you try to see if there is an alignment from the LNIS in charge with the real evaluation that you mentioned.
 
+### Speaker 4
+
  So the integrate part is objective, because it is between every pair of. That you can measure.
 
+### Speaker 3
+
  Let me go there.
+
+### Speaker 4
 
  Here. So for the procedure integrated, it is about fact-checking. Most of them, actually.
 
@@ -139,6 +151,8 @@ My name is Miro Kahl, and I'm a senior research scientist from Avios, a leading 
  So that is our LM charge validation about, because it is quite complex. I would not call it subjective.
 
  That is why we need to carefully design different ways to validate if the charge is correct or not. Thanks.
+
+### Speaker 2
 
  One more question. I have one.
 
@@ -150,13 +164,23 @@ My name is Miro Kahl, and I'm a senior research scientist from Avios, a leading 
 
  Because here, the key performance indicator was revenue, but profit, but in some specific way. For example, like having more customers.
 
+### Speaker 4
+
  Oh, yeah, it's about the last slide, actually. The Nobel Prize winner is.
+
+### Speaker 2
 
  No, no, it's not exactly about.
 
+### Speaker 4
+
  It's about evaluation objective, right?
 
+### Speaker 2
+
  Exactly.
+
+### Speaker 4
 
  How do we design correct evaluation objective? Because this is the example to show that if your evaluation objective is about getting more customers or profit, you are going to the wrong place. It is exactly because the evaluation is designed wrong, not aligned.
 

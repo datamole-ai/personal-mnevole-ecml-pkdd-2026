@@ -1,4 +1,8 @@
+### Speaker 1
+
 So that's the introduction: we set up the word "green" and we pass it on to our models. They're called Carbons and Energy DevOps, and that's all I know besides presenter is Elliot from Wispr.
+
+### Speaker 2
 
  Thank you. Hello everyone. Well, tomorrow we'll be assessing our development of a benchmark in terms of performance and some trade-offs, and also a meta-learning approach.
 
@@ -156,35 +160,67 @@ So that's the introduction: we set up the word "green" and we pass it on to our 
 
  Uh, thank you for your attention. If you have questions, you have to.
 
+### Speaker 1
+
  So we have time for one quick question.
 
+### Speaker 2
+
  Yes.
+
+### Speaker 3
 
  Regarding the data, uh, you mentioned the issues with, like, uh, accessibility features. Are you comparing the quality on the clustering results?
 
+### Speaker 2
+
  Um, you mean if I run different benchmarks with the synthetic and the real-world data separately?
+
+### Speaker 3
 
  No, because, uh, the complexity you mentioned.
 
+### Speaker 2
+
  Mm-hmm.
+
+### Speaker 3
 
  The number of instances.
 
+### Speaker 2
+
  Yeah.
+
+### Speaker 3
 
  Clusters and dimensions.
 
+### Speaker 2
+
  Right.
+
+### Speaker 3
 
  Uh, but for a real case study, for instance, we don't know the number of clusters.
 
+### Speaker 2
+
  Oh, that's true. Yes.
+
+### Speaker 3
 
  Beforehand, so.
 
+### Speaker 2
+
  Yes.
 
+### Speaker 3
+
  Would you mention?
+
+### Speaker 2
 
  Exactly. And that's a little you said good catch. It's a good catch.
 
@@ -200,22 +236,40 @@ So that's the introduction: we set up the word "green" and we pass it on to our 
 
  That's something we consider for our meta-learners, just this, uh, information, dimensions and number of, um, number of, uh, instances to train our, our learners and have those results.
 
+### Speaker 3
+
  I think you ran the brain dry. I don't know if you already did your work, but, uh, did you, did you solve the different shapes of clusters to map into different results?
+
+### Speaker 2
 
  Right.
 
+### Speaker 3
+
  Maybe you can take out some information of the mechanicals beforehand. Maybe you can find links or, uh, a specific shape.
+
+### Speaker 2
 
  Mm-hmm.
 
+### Speaker 3
+
  That will give you some indicators on the.
+
+### Speaker 2
 
  Oh, right. I consider this for training as well, for training all the meta-learners.
 
+### Speaker 3
+
  Yeah. Like a feature for those.
+
+### Speaker 2
 
  Yes. As a meta feature, right. That's interesting.
 
  Thank you.
+
+### Speaker 1
 
  Thank you.

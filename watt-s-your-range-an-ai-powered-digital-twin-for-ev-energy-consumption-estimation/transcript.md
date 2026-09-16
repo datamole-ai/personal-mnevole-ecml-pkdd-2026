@@ -1,6 +1,12 @@
+### Speaker 1
+
 So, last presentation. Uh, so what's your definition? There are two particularly different conceptions: incorporation, and—
 
+### Speaker 2
+
  Wait, can you repeat that?
+
+### Speaker 1
 
  So we've heard about, uh, estimating the actual functionality of a class using an AI-powered Pixel Ring framework that we're about to introduce.
 
@@ -138,40 +144,72 @@ So, last presentation. Uh, so what's your definition? There are two particularly
 
  Elevation, temperature, the speed limit, and trip distance are also important features for the Pixel Ring model. Thank you very much for your time.
 
+### Speaker 2
+
  No more questions from the presenter?
+
+### Speaker 3
 
  Yes. I'm curious about the XLSTM model. Can you ask me the same question?
 
  This one or the previous one?
 
+### Speaker 2
+
  Yeah, this one.
+
+### Speaker 3
 
  How do you calculate the uncertainty? I usually guess it's the mean.
 
+### Speaker 2
+
  Usually? Sorry?
+
+### Speaker 3
 
  I usually guess it's the mean.
 
+### Speaker 2
+
  I mean here.
+
+### Speaker 3
 
  This mean?
 
+### Speaker 2
+
  Yeah, yeah.
 
+### Speaker 3
+
  Is it like why is it like the uncertainty is like?
+
+### Speaker 2
 
  Yes. So this is a global calculation. So the light blue and the actually green blue is all the values of many trips and many, yeah, many variations.
 
  And so this will pose the standard deviation of the mean.
 
+### Speaker 3
+
  So is that from the multiple line side in the calculating the uncertainty?
+
+### Speaker 2
 
  Yes. And also, I see now that here there is a gray area. It's not much visible here.
 
  So there is also a zone here, but it's not much visible.
 
+### Speaker 3
+
  Thank you. Any other questions?
 
+### Speaker 2
+
  So thank you.
+
+### Speaker 3
 
  Thank you as well.

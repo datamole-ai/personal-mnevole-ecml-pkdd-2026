@@ -1,3 +1,5 @@
+### Speaker 1
+
 So, um, I'm talking about something I did about Wispr and our university, and it relates to— we were basically following the idea that, okay, many things in the public sector have room for improvement. We've never tried to escort into Lynn, or so many people have talked about, and I'll talk more about the details of the application, but to connect this to the, uh, to the ideas of the workshop— Ah, oh.
 
  Okay. Ah, yeah, right.

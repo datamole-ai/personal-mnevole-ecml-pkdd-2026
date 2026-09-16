@@ -1,3 +1,5 @@
+### Speaker 1
+
 So, hello everyone. Uh, so actually, Gonzalo Mendez couldn't— couldn't be here, so I will give you the presentation instead. My name is Luis Galardaga, and this is, uh, RocketMan— so it's a student work with Gonzalo Mendez from the Polytechnic University of Valencia, Spain.
 
  He came from SPOLE, Escuela Superior Politécnica del Litoral in Guayaquil, Ecuador, and all the other from England. Alright, so this is about time-series specification, which is a very, uh, it's a very important task.
@@ -60,7 +62,11 @@ So, hello everyone. Uh, so actually, Gonzalo Mendez couldn't— couldn't be here
 
  No, we, we classify the whole series, yes.
 
+### Speaker 2
+
  Yes. And another question is, what is the meaning of the objects that every clean and other interrupt are like sharp or blind or?
+
+### Speaker 1
 
  Well, so, uh, the thing is that, um, as I said here, our tool is, uh, it's modular in the sense that it doesn't really care of the important scores that you, you, you obtain here. Yeah. So that means that technically you, you could use sharp, blind, clear, so you apply sharp to the classifier to get an importance ranking of those features.
 
@@ -70,11 +76,19 @@ So, hello everyone. Uh, so actually, Gonzalo Mendez couldn't— couldn't be here
 
  So I saw another question.
 
+### Speaker 2
+
  Thank you very much for your presentation. I'm sorry to interrupt. You basically now spoke to the sample-wise language.
+
+### Speaker 1
 
  Yes.
 
+### Speaker 2
+
  Can you find, can you find, uh, for instance, there is any convolution that is basically, can you find consistent with something which are much more important than the others? Or maybe that some others are actually not very meaningful.
+
+### Speaker 1
 
  Yeah. Well, we, we haven't done to be honest, I haven't done a quantitative analysis. We are working on that, and that's actually what, what, what actually motivated us.
 
@@ -88,11 +102,17 @@ So, hello everyone. Uh, so actually, Gonzalo Mendez couldn't— couldn't be here
 
  So you can see, you can see also, like, some patterns related to dilation.
 
+### Speaker 2
+
  Thanks again.
+
+### Speaker 3
 
  One more question. You're on, uh, you're looking at, uh, features one by one. Is it like, like, instantly?
 
  And, and will, will it use some form of.
+
+### Speaker 1
 
  Yeah. So that's, that's a really good question. So, um, uh, yeah, so far with the tool, well, with the tool, actually you have the, the power to back-propagate either one, uh, feature or a group of features.
 
@@ -102,11 +122,19 @@ So, hello everyone. Uh, so actually, Gonzalo Mendez couldn't— couldn't be here
 
  So once we've identified the group of features, we can, for example, extract shapes. But yeah, but with the tool, you can, you can actually, uh, you can be as finely as you want.
 
+### Speaker 2
+
  Thanks again.
+
+### Speaker 1
 
  So we can move to the next presentation, streaming inside the Wispr explanation slide. A pilot on toolkits for concept drift, detection, and explanation.
 
+### Speaker 2
+
  Speaker.
+
+### Speaker 4
 
  What's the Wispr FLW specifically? So what do you want to get out of the demo?
 

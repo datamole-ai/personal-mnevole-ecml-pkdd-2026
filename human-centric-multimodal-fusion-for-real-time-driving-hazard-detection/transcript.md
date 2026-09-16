@@ -1,3 +1,5 @@
+### Speaker 1
+
 Actually, actually, my whole vision is still so far. So when we talk about a commodity of wave, only focus for the rope, for the rope is only part of the story. And we think that the driver himself is fixed, is fixed, and his auto is also important.
 
  And actually, the same literal significance can be very, very different. And so our central question is: can we combine the broader context with human reaction?
@@ -70,7 +72,11 @@ Actually, actually, my whole vision is still so far. So when we talk about a com
 
  So this is the motivation for our evaluation of the system.
 
+### Speaker 2
+
  We need to.
+
+### Speaker 1
 
  Because so now we need to combine some fixed road benchmark and the fixed benchmark. Okay?
 
@@ -102,11 +108,19 @@ Actually, actually, my whole vision is still so far. So when we talk about a com
 
  And.
 
+### Speaker 2
+
  One thing.
+
+### Speaker 1
 
  The latency is.
 
+### Speaker 2
+
  Of the data.
+
+### Speaker 1
 
  And now we come to the and now we come to the I want to show that where the thing actually comes from. And the left central is the modified database. And how they use flow information data, they have 50.
 
@@ -116,13 +130,21 @@ Actually, actually, my whole vision is still so far. So when we talk about a com
 
  And the added to the thing is between 66 and 12.
 
+### Speaker 2
+
  That's it.
+
+### Speaker 1
 
  And so this test has 10 conditions and here are the tests.
 
  And the kind of structure and the weather condition. And the third one we know from the first impression of the model and the data more accurately on the reason or cause of the problem that was created in the data.
 
+### Speaker 2
+
  So you find overly.
+
+### Speaker 1
 
  And that one wisdom that is good is we expose the human.
 
@@ -130,12 +152,22 @@ Actually, actually, my whole vision is still so far. So when we talk about a com
 
  And the third, real-time testing should be taken at all event problems. And the third.
 
+### Speaker 2
+
  So thank you.
+
+### Speaker 3
 
  Thank you.
 
+### Speaker 2
+
  Do you have one question?
 
+### Speaker 3
+
  Please speak in your.
+
+### Speaker 4
 
  And thank you. And I have a.

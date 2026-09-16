@@ -1,3 +1,5 @@
+### Speaker 1
+
 All right, uh, hello everyone. I'm Sohel, and I'll be presenting our diagram option, which is a two-stage framework for dynamic pitch generation in agent-assisted sales conversations, and this work has been done by me and my colleagues, Samir and Rosi Sadeghi, in collaboration with our other teammates. Add into it, uh, some context: Intuit is one of America's largest tax and accounting SaaS companies, and we work with experts who do your taxes for you, who do your accounting for you, and this solution doesn't serve as a
 
  cost of expense to make them more efficient and, um, more effective at their work. So, starting with the problem. Um, our program contact center handles thousands of successful, uh, or inbound support calls every single year, and by solving the customers' problems, they are encouraged to sell a solution, uh, or a complementary product to their customer.

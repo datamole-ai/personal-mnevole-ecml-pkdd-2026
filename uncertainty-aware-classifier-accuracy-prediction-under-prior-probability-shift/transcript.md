@@ -1,3 +1,5 @@
+### Speaker 1
+
 Hello everyone, I'm Marek Nevole and— Okay, so, um, suppose that we have a number of devices that are pretty great to, uh, detect people, meals, and so on, and the first issue is able to tell us, say, what our investigation level was, or whatever was the level.
 
  Then imagine that it's called Stripes, and we're trying to calculate your chips, and the best parameter values, uh, goes to chip. So in this case, uh, the best parameter that was considered to be the best before the pandemic is now most probably, uh, suboptimal.

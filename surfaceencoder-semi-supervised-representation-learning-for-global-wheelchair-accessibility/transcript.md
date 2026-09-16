@@ -1,3 +1,5 @@
+### Speaker 1
+
 Hi. I'm Evan Marshall, from the marketing side. For Marek, today I will talk about my subject matter: a Siemens supervised retention plan for low-acuity chair accessibility.
 
  So basically, I worked with wheelchair navigation, and there are certain rules of, like, a detailed parallel ETA that is for such that minimum clarity for a hallway should be clean to be wheelchair accessibility compliant, and also there should be cars for each 200 meters in a hallway. And there are different such regulations for accessibility, but most of these regulations are on paper but not always implemented.
@@ -114,13 +116,21 @@ Hi. I'm Evan Marshall, from the marketing side. For Marek, today I will talk abo
 
  That's the different states of the USA. But soon we will, like, make sure the whole world.
 
+### Speaker 2
+
  What was your sampling rate?
 
+### Speaker 1
+
  Sampling rate was, like, even the lowest sampling rate was 100 Hz to 250 Hz. So, like, sometimes for accelerator, I had to resample.
+
+### Speaker 2
 
  Okay. What do you think is the meaning of the sampling rate that the company is sure to achieve this kind of classification test? Because often, like, you have, for example, commercial exposures.
 
  Then they are quite cheap IMU and with the storage, maybe they don't do it at more than 10 Hz scale. So do you think that that's okay or is it too low?
+
+### Speaker 1
 
  So for this object, I would say that, like, I think there's a limit of how much higher sensitivity we can give. Like, I think it's 500 or something based on the machine. That's why I will say so it's very good.
 
@@ -130,13 +140,19 @@ Hi. I'm Evan Marshall, from the marketing side. For Marek, today I will talk abo
 
  Like, we do 10 seconds of the walk and, like, if our goal station was 100, like, 60, 60, we chop it with 6, 10 seconds of sensitivity. So we actually that is the goal that we need to figure out what will be the best sampling rate to, like, even in policy that can, like, provide this specific window, like, 10 seconds or whatever the window.
 
+### Speaker 2
+
  Sure. I want to get started on that question. But more particular on how you standardize your process of data collection.
 
  Because when you design this for wheelchair model and actually for real size of the suspension system, that affects your sensor.
 
+### Speaker 1
+
  Yeah. So our current model, what we're using is, like, we're, like, we does this basic data processing that helps to handle all of this. But, like, for, I think, the suspension system or wheelchair vibration pattern differs, like, much.
 
  They might correct some of it. But.
+
+### Speaker 2
 
  So last question. Give me some options. Information I already appreciated and I hope you will be able to drive that for which is for disabled people.
 
@@ -146,6 +162,8 @@ Hi. I'm Evan Marshall, from the marketing side. For Marek, today I will talk abo
 
  What was the motive behind that?
 
+### Speaker 1
+
  Yeah. So, like, our initial plan is to, like, collect data using crowdsourcing. Crowdsourcing.
 
  So that, like, so like, if we use a mobile phone for a person, even part of wheelchair actually hides separate, like, different way where we can go through. So that is why I utilize different parts.
@@ -154,13 +172,23 @@ Hi. I'm Evan Marshall, from the marketing side. For Marek, today I will talk abo
 
  So that, like, when they move, like, using our application, when they move from the city.
 
+### Speaker 2
+
  So you use that to pull download and install it.
 
+### Speaker 1
+
  Yeah.
+
+### Speaker 2
 
  And then you actually push the data to the wheelchair.
 
+### Speaker 1
+
  Yeah.
+
+### Speaker 2
 
  Okay. Thank you for the question. So let's thank the speaker and.
 

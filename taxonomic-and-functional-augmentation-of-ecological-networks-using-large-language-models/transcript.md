@@ -1,3 +1,5 @@
+### Speaker 1
+
 Actually, it's busy all three times slot in Japan, Mark. And Anika Klose, the interim SLA, and Janelle and Ursula are marine biologists, so we've got computer science and some neurology.
 
  Okay, and marine biologists for progression. And we're investigating through webs.
@@ -86,15 +88,23 @@ Actually, it's busy all three times slot in Japan, Mark. And Anika Klose, the in
 
  There is a unique world behind us where there's more functional features, those functions and the application that depend a little bit on perspective, or we can say depend on the specific. Thank you for your question.
 
+### Speaker 2
+
  Thank you so much. I hope that we both were really useful in time. Other questions?
 
  So how do you think, how well does this approach apply to all kinds of knowledge graphs that are quite so structured as taxonomies?
+
+### Speaker 1
 
  Well, here what's useful is that if you look for example Wikipedia for pages about different species, yes, they basically since the taxonomies can be right for 150 years, and they are so well standardized and established that this knowledge is already incorporated into the kind of into the base of LLMs, which basically have the whole internet kind of compressed. Or they can even do that search if you fill out the ground with reference data. So here this problem is somewhat easier, but I think this should also work
 
  in other cases. However, the question about validation—
 
+### Speaker 2
+
  I'm kind of wondering, for example, about medical knowledge graphs and then organizing the LLM knowledge of those.
+
+### Speaker 1
 
  Well, medical knowledge, I'm afraid that the first perception of medical would be that medical or physical doctors require. Much that they qualify standards of the quality of data. So here, if we even misrepresented some snails as some kind of other animals as a kind of, let's say, crab, then it wouldn't be too much of a problem would be done, yes.
 
@@ -103,6 +113,8 @@ Actually, it's busy all three times slot in Japan, Mark. And Anika Klose, the in
  And they are very interested in a much more well-established knowledge, yes. So hypothesis, risk-taking, and testing, yes.
 
  They want to check whether it will work for each and every patient rather than only that it works here and there. So I think that's the problem, that over-the-counter validation would have to be much more thorough and effective.
+
+### Speaker 2
 
  Other questions?
 

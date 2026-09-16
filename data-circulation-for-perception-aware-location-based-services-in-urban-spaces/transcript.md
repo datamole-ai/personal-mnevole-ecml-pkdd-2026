@@ -1,3 +1,5 @@
+### Speaker 1
+
 But he said "work on human-moving data analysis"—so that's how. In people experience that there's some good matters for their well-being, so it means that by designing some good route for our tertiarian, we can make people more happier, for example, or make them more stable in terms of well-being. So that is why we study this kind of ropes, and to build such a subject—like subjective data-oriented learning service—we try, we start to collect data.
 
  This is the posting system. We try to take photo in the average way, then make it, make it, make it—this kind of type of pattern in isometrical impression.
@@ -90,20 +92,34 @@ But he said "work on human-moving data analysis"—so that's how. In people expe
 
  So is it like based on region, let's say within this 100-meter radius of the users will get that, or everyone in the city will get that somebody updated something?
 
+### Speaker 2
+
  In, in only a near.
+
+### Speaker 1
 
  Nearby area, yes. Okay. So what about a temporary or let's say there's a street performer doing some music, and you want to share with your nearby one, so but after half an hour the performer is gone.
 
  So how do you validate the event time?
 
+### Speaker 2
+
  Yeah, actually we should do it use such a temporary deployment, but in the current status such a detailed deployment is not implemented. So sometimes, uh, it's nearly every time that we find an occupation.
+
+### Speaker 1
 
  Any other questions? Yeah.
 
+### Speaker 3
+
  I was wondering if, um, you retain any, any information about the participant, like the system retain any socio-demographic information about the participant? Because it would be interesting to see if different, for example, socio-demographic group perceive the same place in different way.
+
+### Speaker 2
 
  Of course, uh, many. Thank you for the question. And in the current, current system, we didn't implement such a social, uh, demographic idea.
 
  So we can't recognize this exactly.
+
+### Speaker 1
 
  Okay, let's thank the speaker.

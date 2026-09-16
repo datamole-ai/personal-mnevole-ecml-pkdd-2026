@@ -1,3 +1,5 @@
+### Speaker 1
+
 Let's say the paper was more or less a glossary of the opposite of science and history.
 
  Glossaries are widely used to uncover techniques in machine learning, to uncover the instructor in data. However, many more applications require glossaries that also specify operational constraints, such as workload balance, or capacity limits, or requirement effect of balance.
@@ -41,6 +43,8 @@ Let's say the paper was more or less a glossary of the opposite of science and h
  Finally, in this case, the goal of CAPFLEX is bridging the gap between constrained clustering research and practical decision support tools. If you need more details about the implementations, you can find our repository in GitHub and have the code about the application, and also more details about the paper that contains the algorithm.
 
  Thank you.
+
+### Speaker 2
 
  Any questions?
 

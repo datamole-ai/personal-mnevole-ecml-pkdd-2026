@@ -1,3 +1,5 @@
+### Speaker 1
+
 Good morning, everyone. I'm Sia, and I'm from the Career Learn, and today I'm happy to introduce our paper, "Walking and Catching Subtitles Between Time Series." So, what is a flow?
 
  We're interested in making the relationship between time series more interpretable, or more specifically, we want to find— we want to match the similar patterns between time series while still capturing the differences in their starting time or their running speed. For example, this here: we have two washing cycles that start at different times, so we're able to capture this difference.
@@ -86,31 +88,53 @@ Good morning, everyone. I'm Sia, and I'm from the Career Learn, and today I'm ha
 
  Any questions for us? Yes, go ahead.
 
+### Speaker 2
+
  And in the case of the window component, the time series, how do you do the alignment? What do you do to find those variations? Do you consider the integration between the different variables for the time series, or how do you handle those variations?
+
+### Speaker 1
 
  So in the— you mean in the multivariate time series. So in the multivariate time series, we use the dependence alignment. So it means that there's one— also one path, actually, for all the channels.
 
  So one single alignment for all the channels.
 
+### Speaker 2
+
  Okay. So you combine all the measures for one type of test there. All the measures for the same test.
+
+### Speaker 1
 
  Sorry.
 
+### Speaker 2
+
  You combine all the variables as a given time set to create just one alignment for all the measures.
+
+### Speaker 1
 
  Yes.
 
+### Speaker 2
+
  And they share the same alignment. Okay.
+
+### Speaker 3
 
  So I just have a quick question.
 
  Reminder, do you know that DTW is very, very expensive? It's complex.
 
+### Speaker 1
+
  Yes.
+
+### Speaker 3
 
  Then in the negative one, we have multiple points. So let's say there are a couple of points we try to optimize them for some classification. So now we're trying to do a few kinds of segments by segment of values.
 
  And it means that we have kind of a different way to do the classification. Just curious, how would you handle those kinds of classifications, mostly in computational integrity?
+
+### Speaker 2
 
  So you can actually discuss DTW is already quite expensive.
 
@@ -120,20 +144,36 @@ Good morning, everyone. I'm Sia, and I'm from the Career Learn, and today I'm ha
 
  But our lab, also under the same project, also have a very vast C-based implementation of the DTW and also the pull version of it. And you're also welcome to try that.
 
+### Speaker 3
+
  And how do you do the— what are the same store comparable efficiency and cost efficiency and—
+
+### Speaker 2
 
  So can you tell me that there are some C-explorable barriers of execution by sort of different processes?
 
+### Speaker 3
+
  And maybe explain DTW, how much of it is DSW change.
+
+### Speaker 2
 
  Ah, yes. So the efficient—
 
+### Speaker 3
+
  Yeah, I mean, it's expensive for the— why?
+
+### Speaker 2
 
  Yes. DTW is the capacity is n squared. But our is log-linear.
 
  Our method is log-linear, the capacity. Yeah.
 
+### Speaker 3
+
  Okay. Anyone have one more question?
+
+### Speaker 2
 
  Everyone is hungry. Thank you very much for your time. Thank you very much.

@@ -1,3 +1,5 @@
+### Speaker 1
+
 It's—uh—So thank you for coming to my talk. I'll get into a bit about uncertainty now, but from a scientific perspective, the focus—my main thing—is mostly on this final sample work.
 
  So even though we already heard a little bit this morning about this idea of classification and classification, maybe a brief rundown for the motivation of this topic.
@@ -92,13 +94,21 @@ It's—uh—So thank you for coming to my talk. I'll get into a bit about uncert
 
  of a solvers problem at least for a small number of classes. But, yeah, scalability is still basically proved, so that's maybe one area for future work. Thank you.
 
+### Speaker 2
+
  I think the case that, I mean, provided that, yeah, we have some specific methods to. All over the one question mark number, right? We can find a number of classifications depending on the sample size, and it works for large samples.
 
  In the case that we do, I mean, my issue is that if one of these systems in order to discover information from individuals, replicate in variants, how do we do this for adversarial differential analysis? So if you modify the sample invariably, would it be the case that then these kind of methods are quite unusual?
 
+### Speaker 1
+
  You mean the quantification setting in the small sample case in general, or.
 
+### Speaker 2
+
  Yes.
+
+### Speaker 1
 
  About the. That is a good question.
 
@@ -106,6 +116,10 @@ It's—uh—So thank you for coming to my talk. I'll get into a bit about uncert
 
  So while the output is, of course, an aggregate, yeah, there's not really any, yeah, kind of privacy takeaways or as I discussed. Yeah, I guess this is more something for.
 
+### Speaker 2
+
  Yeah, it's.
+
+### Speaker 1
 
  Aggregate of computers.

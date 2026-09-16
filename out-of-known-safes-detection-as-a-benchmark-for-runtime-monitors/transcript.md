@@ -1,3 +1,5 @@
+### Speaker 1
+
 Good afternoon. Thank you for witnessing tonight at the SafeGrid Summit. We'll be talking about the handheld, flexible microgrids, and wearable AI systems.
 
  Um, one of the core solutions for this is what we call real-time monitors. So, real-time monitoring assesses load activations and outputs for each input, and based on this it decides whether to accept the prediction from its model or reject it and say, we'll do the same thing for the rest of the system.

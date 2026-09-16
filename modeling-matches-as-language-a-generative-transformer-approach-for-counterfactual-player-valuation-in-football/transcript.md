@@ -1,3 +1,5 @@
+### Speaker 1
+
 Good afternoon, everyone. My name is Gideon Holm, from Transformer University of Seoul, and today I'll present my work, what I would like to mention as a brief, celebratory transformer approach for counterfactual play evaluation in football and in chill, SpotGPT. In summary, we treat a football match as a sequence of contents, and we train a GPT-style model to predict next events.
 
  Most saying the model can stimulate the player with the news, new context, or new system.
@@ -96,53 +98,91 @@ Good afternoon, everyone. My name is Gideon Holm, from Transformer University of
 
  So standing at the Maradona stadium, I'm sure we have a lot of questions from folks. So yeah.
 
+### Speaker 2
+
  Yeah. Thank you. Uh, very interesting.
 
  Um, what do you think which information drives the better performance of the simulation compared to the naive support? Because, for example, your example receipts that you also showed very much better performance at team club, right, than previously.
 
  So what do you think, how, or what information does the model utilize to predict correctly that he was improving after the game? It's like the team quality that's implicitly more important to the, uh, prediction of anything, I think.
 
+### Speaker 3
+
  I think player quality is, um, how to react to different contexts. So basically, in a player of our model, learn naturally while training. So, so, um, a player can learn a different quality whether, yeah, whether different situation, when, when different situation.
 
  So I think it is basically kind of the, to be better performance than the 9 experience.
 
+### Speaker 2
+
  So basically, that you see in different contexts than before, and that varies differently at sports level, right?
 
+### Speaker 3
+
  Yes. And varies context. Yes.
+
+### Speaker 2
 
  Okay. Okay. Well, thank you very much, uh, for your paper.
 
  Uh, little que, little question about, uh, your data and events. I understand you use, uh, events from, uh, your Korean, Korean league, yes?
 
+### Speaker 3
+
  Yes.
+
+### Speaker 2
 
  And this is 40 events. You need to estimate the next token, yes? How, how much events you use in your data?
 
+### Speaker 3
+
  Ah, yes. And we almost depend as, as a 6.1 million events. For our time season, we're clearly.
+
+### Speaker 2
 
  Yeah. I mean, it's a pool, but, uh, it's a set, yeah. It's like pass, ball, time.
 
+### Speaker 3
+
  Ah, yeah, yeah, yeah. And as I remember, I, I almost used 20, 20 to 25 events.
+
+### Speaker 2
 
  20 to 25 events.
 
+### Speaker 3
+
  Yes.
+
+### Speaker 2
 
  It's, uh, it's a nice question. Uh, how we can develop this system to another leagues. So I mean that, that, that you have some methods how you can take this, uh, data for your Korean leagues, but another leagues, Brazilian leagues, Russian leagues, we have some another type of events and the data.
 
  How we can develop this out GPT for another data. Is it possible?
 
+### Speaker 3
+
  I think we want to expand our data coverage in, I think, only event data is not enough. So we need to combine some separate data and because together, all the 20 player trajectory are needed. So yeah, that, that's quite challenging because the tempo and everything is different from different leagues.
 
  Um, yeah.
 
+### Speaker 2
+
  So inventory, you need tracking, you think, yes?
+
+### Speaker 3
 
  Yes.
 
+### Speaker 2
+
  Very good.
 
+### Speaker 3
+
  Thank you.
+
+### Speaker 2
 
  Uh, okay. Please, last question. Um, so do you use the player position as one of the features in the context encoding side?
 
@@ -152,9 +192,13 @@ Good afternoon, everyone. My name is Gideon Holm, from Transformer University of
 
  You know?
 
+### Speaker 3
+
  Yes. And actually, the role-confident mask is being improved. So the, the model actually can not be provided to be from the same context.
 
  As you can see, the context, there is a lineup, and the lineup has learned there's a role of player. So in some respect, the role, the role information can be, uh, can be improved from the same context.
+
+### Speaker 2
 
  Okay. Okay. Thank you, everyone.
 

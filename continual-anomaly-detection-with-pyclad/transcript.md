@@ -1,6 +1,12 @@
+### Speaker 1
+
 I'm hiring by 740 dictation and 238 for post-production.
 
+### Speaker 2
+
  Thanks, everyone.
+
+### Speaker 3
 
  Hi everyone, Roberto Benitez here from American University, with a finger crossed HEH University. Hello. Today we're presenting PyTab, our library in framework for continual anomaly detection.
 
@@ -17,6 +23,8 @@ I'm hiring by 740 dictation and 238 for post-production.
  So we realize that there are many libraries for continual learning, mostly for RL or research education, and at the same time there are libraries for anomaly detection. Very popular ones are PyOD, Anomaly, PySAT, but we found nothing at the intersection of these two.
 
  So essentially we have models that are really good for continual learning, but they don't deal with the challenges of anomaly detection, and very good anomaly detection models that don't deal well with continual learning challenges. And so we sit at this intersection, try to work on continual anomaly detection, propose scenarios, strategies, and a modular library to deal with this type of scenario.
+
+### Speaker 2
 
  Okay. So our framework focuses on continual anomaly detection, and our goal was to make it as modular as possible, because I think we all know that sometimes it's very hard to use research software. So basically there are four concepts here, four ideas.
 
@@ -61,6 +69,8 @@ I'm hiring by 740 dictation and 238 for post-production.
  And here we can see, for example, that when the detector learns task three, C3, then the performance in the first task drops significantly, from 0.94 to 0.59. And this is what we are aiming at.
 
  So showing forgetting and then preventing forgetting.
+
+### Speaker 3
 
  Okay. So we started with tabular data, and now we're trying to incorporate more and more modalities. So vision is very popular in continual learning, so we're trying to deal with vision, but from an anomaly detection standpoint.
 

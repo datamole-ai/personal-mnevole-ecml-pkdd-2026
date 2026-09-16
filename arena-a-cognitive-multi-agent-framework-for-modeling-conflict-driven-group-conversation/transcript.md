@@ -1,3 +1,5 @@
+### Speaker 1
+
 Okay, I'm going to do this instead: multi-uh, multi- multi-positional data.
 
  Um, and in this one we— we— the naming need to be a little bit complicated, complicated, I should say. It's just like we put several agents in on the client, then we wait on our— on our— on what topic the reference is, so that it's— that it's confusing what we're doing.
@@ -102,7 +104,11 @@ Okay, I'm going to do this instead: multi-uh, multi- multi-positional data.
 
  The reason is simple because, uh, demo is a framework, and the framework itself, it forgot it, it's short memory jobs. Turns, so.
 
+### Speaker 2
+
  Why?
+
+### Speaker 1
 
  Okay. So, so, so the same argument comes back as a new one here. So there is, uh, archive level of, uh, uh, repetition.
 
@@ -118,9 +124,15 @@ Okay, I'm going to do this instead: multi-uh, multi- multi-positional data.
 
  Uh, facilitators is quite different because facilitator is not really trying to improve the quality of the, of the content, but it's trying to, uh, uh, to reduce repetition, and it, uh, let, uh, let, let the facilitator know when to stop to improve, uh, to improve the overall, overall bar definites and engagement.
 
+### Speaker 2
+
  Okay. Thank you very much.
 
+### Speaker 1
+
  Okay. Sorry.
+
+### Speaker 2
 
  Uh, this is an example of, uh, the disability of the RTC manager, as a key note. Uh, questions.
 
@@ -128,11 +140,15 @@ Okay, I'm going to do this instead: multi-uh, multi- multi-positional data.
 
  If you take time to present a certain example, what would you consider?
 
+### Speaker 1
+
  Actually, the certain, uh, certain, uh, certain, uh, certain slide basically trying to say we produce, uh, the, the first two, uh, boundary class, one is public participation, one is, uh, uh, is a meaningful and crucial, crucial events that are, uh, that are not anybody's signal that it has the purpose of the, uh, the transferring into the real, uh, real world. Then the third one, the argument evolution and training. Actually trying to prove that, that the, the cognitive and the vision that, uh, extracted from our, uh, from
 
  our agent is, uh, is also learnable. So basically that's, uh, so with. Is that we said that we can achieve not bad score on the real world.
 
  This is when we say that, uh, this is a good, uh, synthetic agent framework.
+
+### Speaker 2
 
  Yeah. Uh, let's see. Speaking of my next question, but I am looking at the audience, uh, and the customer's question.
 
@@ -140,13 +156,19 @@ Okay, I'm going to do this instead: multi-uh, multi- multi-positional data.
 
  I think we must focus probably, um, the, uh, the speakers in the room would be, um, could have any kind of behavior or misbehavior. So, uh, how flexible is your empowerment?
 
+### Speaker 1
+
  Actually, from the flexibility, it's really based on how the person, how the experience model is, uh, generating the whole scenario. And at the same time. But we know there are some things that we cannot do in our model, so that's why we try to run training on the model once in our events we will make.
 
  So we want to train on that, uh, uh, small, small task. So we can also call.
 
  It's not just, uh, it's sort of like a conversational RTC agent for a specific, uh, task or generated data.
 
+### Speaker 2
+
  Okay. Final questions.
+
+### Speaker 3
 
  Yeah. Thank you for the presentation. Um, so I have some, uh, uncertainty about how we can evaluate smart people.
 
@@ -154,13 +176,23 @@ Okay, I'm going to do this instead: multi-uh, multi- multi-positional data.
 
  What are the usefulness of the result rather than just using some measurements or some judges.
 
+### Speaker 1
+
  Yes.
+
+### Speaker 3
 
  How do you prove that your dataset is better data set than the, um, uh, what is the other one?
 
+### Speaker 1
+
  Uh, demo.
 
+### Speaker 3
+
  Demo.
+
+### Speaker 1
 
  Yes. So yeah, yeah. But demo is a, a module for that is not just bounded for the role play or for generating synthetic dataset.
 
@@ -175,5 +207,7 @@ Okay, I'm going to do this instead: multi-uh, multi- multi-positional data.
  We can beat, uh, uh, with, uh, compare with the real dataset, uh, real dataset training, uh, and on the real datasets, we could achieve not bad score. So it proves thus the utility of the synthetic dataset.
 
  It has learning signals.
+
+### Speaker 2
 
  Okay. Thank you very much.

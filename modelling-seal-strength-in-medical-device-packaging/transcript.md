@@ -1,3 +1,5 @@
+### Speaker 1
+
 We are a context process, non-context process. This is what we have to do when we're doing a clean process: we validate it, then we can sell it based on the market. And the second context is the cross-validation, which is what we are more familiar with.
 
  So the ISO 11607 says that you have to go through some steps to pass the validation procedure. Here you can see the simplified view of it.
@@ -26,13 +28,21 @@ We are a context process, non-context process. This is what we have to do when w
 
  The rest was taken from the specification of the board.
 
+### Speaker 2
+
  Can you check for anything?
 
  I will go back to a lot of this is incoming from the audience.
 
+### Speaker 1
+
  Yes.
 
+### Speaker 2
+
  No problem.
+
+### Speaker 1
 
  It's easier. Okay, so when we got the data, that was made in 2024, 2025, on the day of production condition from the packaging machines, or let's summarize, we saw that we had 4,500 in the tube in the wheel test results.
 
@@ -90,9 +100,13 @@ We are a context process, non-context process. This is what we have to do when w
 
  And that's it. If you have any questions, please.
 
+### Speaker 3
+
  And I will start with the question. I might have missed it. So you had a list of explanation characteristics.
 
  And you also mentioned causality. How much.
+
+### Speaker 1
 
  You cannot say that you're a causal. This is only for the treasure. Now we can look at the distribution, right?
 
@@ -102,7 +116,11 @@ We are a context process, non-context process. This is what we have to do when w
 
  This is the same. So you cannot say that this is causal.
 
+### Speaker 3
+
  But do you know what is the cause of that? For example, if you use those mean values.
+
+### Speaker 1
 
  You can make a physical model out of that. Because film thickness, because with weld time, sealing pressure, temperature, it's more or less known what is happening, right?
 
@@ -110,9 +128,15 @@ We are a context process, non-context process. This is what we have to do when w
 
  So film thickness also has to be taken into account, but also the packaging paper thickness. So more or less, you can create something.
 
+### Speaker 3
+
  Have you heard a lot of you saying some sort of physically informed machine learning? That is, because you have the equation with compliance, that's maybe something that is not accurate.
 
+### Speaker 1
+
  It's in the.
+
+### Speaker 3
 
  In the project. Okay, good.
 
@@ -120,6 +144,10 @@ We are a context process, non-context process. This is what we have to do when w
 
  Thank you.
 
+### Speaker 1
+
  Thank you.
+
+### Speaker 3
 
  We expect one presentation to give you a layer. And then they go back for 30 minutes for one more presentation and then fine. Thank you.

@@ -1,3 +1,5 @@
+### Speaker 1
+
 We've already had a lot of presentations talking about what quantification is, and I'll skip the introduction a little bit. But in this talk we're going to be assuming environmental intelligence, and we're going to be treating quantification as a two-stage practice. So we have a classifier that gives us scores on each instance of that spec, and then we're giving that sort of score to a reference reference.
 
  So the signatures have in recent evaluations been shown to perform relatively poorly compared to other classifiers. Base classifiers were performing quantification.

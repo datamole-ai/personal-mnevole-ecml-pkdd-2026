@@ -1,3 +1,5 @@
+### Speaker 1
+
 Hello everyone. Good morning. Um, I'm Victor, the lead author for this paper.
 
  This is, uh, ASPER: Automated Skills Displayation and Adaptation for Financial Risk, developed together with my co-author, um, at the University of Hong Kong. At its core, the idea is straightforward: we teach large language models to debug their own financial risk, one executable skill.
@@ -102,6 +104,8 @@ Hello everyone. Good morning. Um, I'm Victor, the lead author for this paper.
 
  It is a new representation layer between a model and its deployment context, one that can be version-controlled, audit, and regenerate for whatever model comes next. So thank you for your, um, um, time, and, uh, happy to answer any questions if you have them.
 
+### Speaker 2
+
  What questions do I have? Can I start with you? Because I'm asking my own questions.
 
  So, uh, what, what was the, the beginning actually question? Son, uh, this, uh, uh, big world, global, and go back there.
@@ -109,6 +113,8 @@ Hello everyone. Good morning. Um, I'm Victor, the lead author for this paper.
  Yeah, exactly. Uh, now the question was about, uh, it is about the warm-up phase and why did the student model say.
 
  Now we are talking about the ground truth, and I would like you to spend some words about the reliability of this ground truth.
+
+### Speaker 1
 
  Uh, so basically, um, the ground truth, uh, came from the data set, and we have the arithmetics questions as well as the non-arithmetics questions. For the arithmetics question, uh, it's relatively straightforward. Its ground truth is numerical answers.
 
@@ -120,9 +126,13 @@ Hello everyone. Good morning. Um, I'm Victor, the lead author for this paper.
 
  It's straightforward. Uh, the, the other is, uh, LLM as a judge.
 
+### Speaker 2
+
  Yeah. Uh, I, I will help. Um, and essentially what I'm asking, my question is how, uh, would you use the ground truth when you talk about financial reasoning, which is your guiding?
 
  Do you take that, or what is your, where comes your confidence from that this ground truth is good enough for financial reasoning?
+
+### Speaker 1
 
  Um, so I think this we have actually evaluated more than 10 different data sets in the financial reasoning space. Uh, some are focusing on, like, visual model, visual understanding. Some, uh, uh, some other aspect.
 
@@ -132,25 +142,41 @@ Hello everyone. Good morning. Um, I'm Victor, the lead author for this paper.
 
  So we also find that, uh, if the baseline model, for example, here we use Haiku 3.5, the result is very good. But if you use, for example, uh, Opus 5, there might be very minimal, uh, improvement, um, because there's, like, some opacity in the, um, uh, capabilities.
 
+### Speaker 2
+
  Okay. Thank you very much. Uh, are there questions?
+
+### Speaker 3
 
  So the skill market, like, is it, like, uh, provided by, by the model in the future?
 
+### Speaker 2
+
  Uh, can you, uh, repeat the question? Uh, so that.
+
+### Speaker 1
 
  Yeah, the question is more like what are the deliverable of what is being learned, right? So actually what is being learned is in this format. So it's the very typical agent skills, uh, template, whereas we specify what, what is the, uh, knowledge gap being addressed, uh, when to use, and what are the procedure, uh, of using it, and, uh, a code template, and some, uh, precautions.
 
  So basically, um, it's, it's compatible with the, like, a lot of people, like, OpenClaw or PAM, PAM, PAM-based, they use these, uh, skills to improve, uh, the, uh, model capability as well as, uh, allowing the, uh, the model to, um, perform tasks which is more predictable and, uh, following our procedure to improve the accuracy. Thank you for the question.
 
+### Speaker 2
+
  Thank you very much. Um, I would, uh, sorry I have a little bit of a late in time, but go ahead.
 
+### Speaker 3
+
  Can you, how can you be sure that the teacher understands why, uh, the student goes wrong? And my assumption is you're using the same model that was wrong in the beginning. So how can the model extrapolate the truth from the small errors that are there?
+
+### Speaker 1
 
  Yeah, so, um, that is actually being investigated by one of our key findings. So, um, our primary assumption is that the, uh, teacher model is smarter than the student model. So that's why using the, uh, stronger model to analyze the mistake of the student can create skills that help the student.
 
  But effectively, for in specific Haiku 3.5, we actually find that even using the same model, it's almost like the, uh, uh, you know, modern days, like, deep, deep reasoning chain. So through this deep reasoning, uh, iteration, uh, the student can actually improve, uh, himself.
 
  Thank you.
+
+### Speaker 2
 
  Okay. Thank you very much. If there are follow-up questions, please.
 

@@ -1,3 +1,5 @@
+### Speaker 1
+
 I'm very excited to be here for a couple of reasons. One is that I've talked to three of my supervisors here, so thank you. So, one of the reasons is that the title of the workshop actually is saying that we're closing this gap between industrial and real-world setting and qualitative research, and how we can actually apply qualitative research into business.
 
  So I'm really excited to be here for this meeting. And, of course, as you know, we've had a few collaborations over the years, and I'm so curious to hear yours, so thank you for coming today.
@@ -280,6 +282,8 @@ I'm very excited to be here for a couple of reasons. One is that I've talked to 
 
  Like, when you use those models in metrics for users in production, do you have any intuition as to how well these offline metrics correlate?
 
+### Speaker 2
+
  So, basically, like, we don't have foundational models yet in production, right? But we have experimented on cases where we have, like, the production system compares to, like, foundational models online. And we see, like, you know, I mean, I showed, like, some use cases, right?
 
  We see some of the original work that is, like, it's working well in certain scenarios, but it's not working in some other example scenarios.
@@ -289,6 +293,8 @@ I'm very excited to be here for a couple of reasons. One is that I've talked to 
  It's just we don't capture those metrics that we are looking at. And then, like, you know, this aspect of looking at correlation, causation between causal properties of the features and, like, you know, the metrics that we can have impact on the player experience is something that we are currently actually partnering and implementing on.
 
  Have you ever thought of looping the player in a way that, not thought of, but thought of maybe because the need of developing different models to loop a player rather than developing one model?
+
+### Speaker 1
 
  Very good question.
 
@@ -310,11 +316,15 @@ I'm very excited to be here for a couple of reasons. One is that I've talked to 
 
  A claim on that, but it is not sure that it picks up on, like, a lot of tasks and events. So, like, there's something in the data for different types of players and it can generalize by many properties of the features to work on the tasks.
 
+### Speaker 3
+
  Thank you for your thoughtful answer. I'm also very grateful in addition to getting this late to the week, of course, you know, it's quite a lot of sometimes new readings to find. So, I'm also not sure of your representation.
 
  To engage with this UI of the features and the users or whatever. Is that also an issue you observed in your paper?
 
  It should look like historically we don't have those actions as well. Is that a kind of a short circuit?
+
+### Speaker 1
 
  It seems like it's quite a painful process to share today, right? I think I mentioned about, like, this white part about stability and replaying and so on. I think it's like, you know, the behavior of the players is probably going to change because the game is changing and, like, you know, the interaction also has impact on, like, you know, what they do.
 
@@ -326,11 +336,17 @@ I'm very excited to be here for a couple of reasons. One is that I've talked to 
 
  So, it's a tricky problem.
 
+### Speaker 2
+
  I think one more.
+
+### Speaker 3
 
  So, what is your idea? We cannot, like, barely enough this is grow, like, we need to, like, start practicing one, like, basically in an industrial setup where there aren't many pieces, like, small components here and there. And are you looking at, like, basically a lot of language model as a brain or as a piece of visualization that that's going to be, like, smaller setup of the ML model?
 
  And how do you think about the explaining it? Because that has become very, it's very important in, like, how you think about that.
+
+### Speaker 1
 
  So, I think my first answer is that it is an easy case and because, like, you know, explainability is, like, a very urgent if, like, you know, compute or constraints, like, you know, the simplest model, it makes the life of, like, you know, everyone easier on the engineering and the product.
 
@@ -346,7 +362,11 @@ I'm very excited to be here for a couple of reasons. One is that I've talked to 
 
  I didn't touch here because we. For players and how they can get that.
 
+### Speaker 3
+
  Okay. So, first of all, thanks for your presentation. I'm curious to know how long this project take and with how many people.
+
+### Speaker 1
 
  So, good question.
 
@@ -358,7 +378,11 @@ I'm very excited to be here for a couple of reasons. One is that I've talked to 
 
  So, we collaborated with a lot of different teams. It's not only my, like, my team that works on it, but it's, like, we've been exploring this for, like, a few years.
 
+### Speaker 3
+
  Right.
+
+### Speaker 1
 
  And one more thing that maybe I can add, that some of. I used the word, I was going to, I saw, like, you know, how people handle data, but you know, based on.
 
@@ -366,11 +390,19 @@ I'm very excited to be here for a couple of reasons. One is that I've talked to 
 
  And we have foundational models, context of which we're looking for information. And then we've done more from the other end so that, like, we can explore some different types of.
 
+### Speaker 3
+
  Multi-model?
+
+### Speaker 1
 
  Multi-model, but instead of training the models, we just want to work on their datasets. We work on the models.
 
+### Speaker 3
+
  Right.
+
+### Speaker 1
 
  So, I think this is kind of. Yes, you may actually go from this setup to it. We actually have been discussing about, like, you know, something similar.
 
@@ -382,6 +414,10 @@ I'm very excited to be here for a couple of reasons. One is that I've talked to 
 
  And then.
 
+### Speaker 3
+
  Thanks.
+
+### Speaker 1
 
  So, thank you very much.

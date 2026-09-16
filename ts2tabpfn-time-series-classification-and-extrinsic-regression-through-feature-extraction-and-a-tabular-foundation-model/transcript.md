@@ -1,3 +1,5 @@
+### Speaker 1
+
 Ready. So, uh, the first motivation—the first motivation for the paper—is probably the same for many of you: that the time series are becoming more and more difficult in many different applications. There are some examples here because in my lab we're more into health, machine learning for health, so we have some stuff in physiological signals, like monitoring patients, providing some diagnoses, or something from physiological signals like electrocardiograms.
 
  But we have so many applications. So, in this paper, we're interested in two main tests that are time series classification and experience regression.
@@ -76,7 +78,11 @@ Ready. So, uh, the first motivation—the first motivation for the paper—is pr
 
  Thank you.
 
+### Speaker 2
+
  Can you say something about potential data leakage? Because that paper has been examples of that.
+
+### Speaker 1
 
  Yeah. He's asking me about the data leakage. But the TAPFM wasn't trained with real datasets, just synthetic datasets.
 
@@ -84,19 +90,31 @@ Ready. So, uh, the first motivation—the first motivation for the paper—is pr
 
  Probably they have some that matches the distributions, but they're not there.
 
+### Speaker 2
+
  Okay.
 
  If you check the performance on the testing time depend on the raw time series, how it goes?
 
+### Speaker 1
+
  Exactly. The raw time series, the time series are segmented. The event is there, etc.
 
+### Speaker 2
+
  Is there extraction just in raw series?
+
+### Speaker 1
 
  Yeah, it's in the raw—ah, I need it. I got it. I tried it.
 
  It's not good.
 
+### Speaker 2
+
  Why?
+
+### Speaker 1
 
  I don't know why. That's why the experiments are not good, because we couldn't explain, we couldn't understand it well. There is a paper from both FAISS and TAPFM to insert the raw time series directly, but it's not the TAPFM that we have, the general TAPFM.
 
@@ -104,11 +122,19 @@ Ready. So, uh, the first motivation—the first motivation for the paper—is pr
 
  They tried to put the raw time series directly and then it failed.
 
+### Speaker 2
+
  Just to ask a simple question. So MOOC rocket transforms the series into random convolutions that can execute the first one and execute 2,000 features.
+
+### Speaker 1
 
  Yes.
 
+### Speaker 2
+
  So how is it relevant in this case? Have you tested any approaches to, like, learn a convolutional pair through context learning that we did that?
+
+### Speaker 1
 
  Okay. We're doing this right now. He's asking me about the random kernel convolutions.
 
@@ -116,9 +142,13 @@ Ready. So, uh, the first motivation—the first motivation for the paper—is pr
 
  And we're not using any customized or trained kernels for now.
 
+### Speaker 2
+
  Any follow-up question? Any other thoughts? Yes?
 
  Okay.
+
+### Speaker 1
 
  I have a question.
 
@@ -126,18 +156,34 @@ Ready. So, uh, the first motivation—the first motivation for the paper—is pr
 
  Like, complement the features of the—
 
+### Speaker 2
+
  Sorry.
+
+### Speaker 1
 
  Have you looked into multiple tabular features? Like, do you need to compile features or things like that to enrich your features and to help for understanding?
 
+### Speaker 2
+
  Yeah, that's actually a good idea. We didn't try that. Any extracted features use a multiple scoring then to the features on the motifs or something like that?
+
+### Speaker 1
 
  Yeah, we didn't try that yet. But that's a good, actually a good idea, and probably that could be used in certain time series not segmented, because we're using the segments, right? So, yeah, probably from the motifs we can extend this for screen time series, long time kind of monitoring, something like that.
 
+### Speaker 2
+
  Good idea. Any other questions?
+
+### Speaker 3
 
  Sorry to interrupt. This is good for the poster section.
 
+### Speaker 1
+
  Okay.
+
+### Speaker 3
 
  Thank you.

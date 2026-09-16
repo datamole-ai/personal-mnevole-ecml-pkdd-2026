@@ -1,3 +1,5 @@
+### Speaker 1
+
 So we use my phone for computing interpretability method. So, uh, a quick motivation: I'll be talking about really interpreting a deep neural network in CI/CD, and how you can, from a high-level perspective, really compose different methods for interacting easily with them. As you might know, the shift in the modern interpretability went from previously single attribution maps to more complex pipelines where you are, like, activating you use them later on to estimate dimensions, and you use them to infer interventions.
 
  So it's become more of a complex orchestrated pipeline. And so, I'll be—this is why I'm motivated to do it.
@@ -45,5 +47,7 @@ So we use my phone for computing interpretability method. So, uh, a quick motiva
  And finally, I'll be also focusing on deep neural work, so if it's something that interests you, feel free to reach out. So thank you again, and here is the details, and feel free to connect on the email.
 
  Thank you.
+
+### Speaker 2
 
  Questions?

@@ -1,3 +1,5 @@
+### Speaker 1
+
 My name is Igor. I work at Salandra, and today I will tell you about what Wispr Flow is, and what is a codex dictation, and what we call codex in English. So Salandra is a large collection store across Europe, and traditionally we originally collect fashion items from the catalog used in Salandra.
 
  So you see a selection of various clothing in different categories, and even then you see some data and you can do some invention adjustment. But at some point, recently, we had a pilot of a new project where users could see images generated from other users, from creators.
@@ -38,7 +40,11 @@ My name is Igor. I work at Salandra, and today I will tell you about what Wispr 
 
  Any questions?
 
+### Speaker 2
+
  So how do we select the video frames? Is there some resolution skipped in front of this architecture, or do you randomly select these video frames?
+
+### Speaker 1
 
  So in this work, it's selected randomly for me. So just every 10 frames, every 10 frames, right? But we also want to have more slide selection.
 
@@ -46,9 +52,15 @@ My name is Igor. I work at Salandra, and today I will tell you about what Wispr 
 
  So we can easily select from those frames and use them. And I think that would be interesting to us.
 
+### Speaker 2
+
  For the small group of users, what's the length of the video?
 
+### Speaker 1
+
  Our videos are usually 2 to 4 minutes per round, and the number of users except for the fashion store, we're talking about 10 to 15 minutes per instance.
+
+### Speaker 2
 
  Other questions? Okay. Thank you.
 

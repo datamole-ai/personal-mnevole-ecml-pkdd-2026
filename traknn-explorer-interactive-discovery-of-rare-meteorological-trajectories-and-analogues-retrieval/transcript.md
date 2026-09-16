@@ -1,3 +1,5 @@
+### Speaker 1
+
 So we're just getting started with the next product, and it's our attempt to sort of be a forever good product for the client's needs. So first, for the context, please take notice that this is a product that is easily attributable to the probability of occurrence of epidemics or of infected sickly diseases.
 
  And when we later do such analysis, we can analyze role of atmospheric circulation as a role of pressure. So when they used to come out specifically with that pressure maximum data, and we can simulate our pressure max in the data we have in the base, in the data, so we can compare with similar pressure configuration what was the temperature before and what is the temperature after.

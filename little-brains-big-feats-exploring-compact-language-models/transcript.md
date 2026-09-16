@@ -1,26 +1,48 @@
+### Speaker 1
+
 Hello everyone, my name is Roman Yanis, I'm from Spirit DNS. It's a small company, a small startup-like, it's well connected with the Spirit State University, and so we usually make a lot of research tasks. And today I will speak about large language models, but not very large.
 
+### Speaker 2
+
  For Russia. I don't understand why Russians from Russia are allowed to be here. Sorry.
+
+### Speaker 1
 
  Sorry, I don't understand your opinion. This is research. You're allowed to be here.
 
  This is no politics, okay?
 
+### Speaker 2
+
  But researchers create prompts that kill people in the internet.
+
+### Speaker 1
 
  Yes.
 
+### Speaker 2
+
  This company makes prompts.
+
+### Speaker 1
 
  Yes, and this is—
 
+### Speaker 2
+
  This is what your company produces to be—
 
+### Speaker 1
+
  No, that's what—
+
+### Speaker 3
 
  It's using these prompts to the CEOs, to the conference CEOs, but I would like to allow the presenter, because the presenter, right or wrongly, it might have been wrong, but the presenter did get permission to present, so we must serve his friend. And this is something which I would greatly appreciate if you bring forward to the community meeting. Okay, so we are done with this presentation.
 
  Of course, feel free to leave, but don't blame the presenter because the paper was accepted. It might be that it was the prompt that it was accepted, but it has been accepted.
+
+### Speaker 1
 
  Thank you. And to be clear, I'm telling you now that I'm standing about large language models in the context of that practical task, using them as generators in the review of language generation setup of the CPU for large language. So, first of all, we had a practical task with some constraints.
 
@@ -92,9 +114,13 @@ Hello everyone, my name is Roman Yanis, I'm from Spirit DNS. It's a small compan
 
  I'm ready to answer your questions. Thank you.
 
+### Speaker 3
+
  Since I'm reporting this incident, I would like to ask questions, because I wasn't present for some moments. Are there questions? So this was just for the generation part.
 
  So what do you now think of how to get the retrieval part to work also with smaller models? So when you transform the documents into reasonable embeddings, could you also do that, just mostly with a container maybe with anything?
+
+### Speaker 1
 
  Thank you. It's a great question. First of all, to focus on generation, because it requires a large model.
 
@@ -106,11 +132,19 @@ Hello everyone, my name is Roman Yanis, I'm from Spirit DNS. It's a small compan
 
  So you should, I think, always start from the requirements you have for the system in a practical task.
 
+### Speaker 4
+
  Do you think there's chance that building better models, more compact, is also critical to use the drones, to use less material, and make the drones more accurate?
+
+### Speaker 1
 
  You mean less. Small models can be more accurate.
 
+### Speaker 4
+
  Yeah.
+
+### Speaker 1
 
  I think it depends. We found out that they can achieve the same quality with the provided context. It's known that the more the model is, the more tokens go through there, and they have a wider world knowledge.
 
@@ -118,9 +152,15 @@ Hello everyone, my name is Roman Yanis, I'm from Spirit DNS. It's a small compan
 
  So yes, I think it can be.
 
+### Speaker 4
+
  And do you have any way to ensure that your research is not helping the right time?
 
+### Speaker 1
+
  I think it is more like I think this task is not connected to the whole process. And this research is open-source, so it can be used for everyone.
+
+### Speaker 3
 
  We have done for this topic. I would like to make it clear that what I'm doing here reflects my assumptions and assessments here. I am also one of the generals here.
 

@@ -1,3 +1,5 @@
+### Speaker 1
+
 We're going to call for all the University of Science and Technology of China. Today I'll present TVS LMS, a unified framework for multivid time-series transcription through Triple Views subscribed routing.
 
  Our starting point is that this task may show a backbone, while your discriminate information doesn't always align with the same variable frequency binds or temporal interactions. I'll begin by making this difference concrete.
@@ -102,6 +104,8 @@ We're going to call for all the University of Science and Technology of China. T
 
  I'll hand it to the next question.
 
+### Speaker 2
+
  Thank you.
 
  One more quick question. You added a context asset for the data you want to use for first, or from AI for transitional inputs?
@@ -112,15 +116,23 @@ We're going to call for all the University of Science and Technology of China. T
 
  So can you give a summary of just for the purpose of this interview, what do you try to classify the time series coming from that into what?
 
+### Speaker 3
+
  So my relation is hope.
 
  So every sync you say it's selector of pictures.
 
+### Speaker 2
+
  And is that a synthetic result? Yeah? What are you trying to classify from that?
+
+### Speaker 3
 
  Okay. We choose three selectors works on each channel. Frequency components and the experts assigned to each batch.
 
  Okay.
+
+### Speaker 2
 
  And then?
 
@@ -132,16 +144,28 @@ We're going to call for all the University of Science and Technology of China. T
 
  So you have a regular frequency of transmission.
 
+### Speaker 3
+
  Both my images is individual post. So we can connect them with email at.
+
+### Speaker 2
 
  I just wanted to say that for each domain and some teams, the job is to actually list your model based on the domain knowledge of that field. So if you have specific fielding, for traffic modeling, that needs to be embedded into the whole behavior of that test. So if you just take that as an example, are you able to find serious problems?
 
  Good luck. If it doesn't have domain knowledge, the spatial temporal layout of the network?
 
+### Speaker 4
+
  I can see this part. I'll use it. It's part of a standard benchmark.
+
+### Speaker 2
 
  Yes.
 
+### Speaker 4
+
  I agree with you.
+
+### Speaker 2
 
  Let's stop the recording.
