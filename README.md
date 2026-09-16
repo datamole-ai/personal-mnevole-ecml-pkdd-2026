@@ -1,6 +1,6 @@
-# ECML PKDD 2026 — presentation notes
+# ECML PKDD 2026 — transcripts and summaries
 
-Personal notes from 53 presentations attended by Marek Nevole at [ECML PKDD 2026](https://ecmlpkdd.org/2026/), September 7–11, 2026, in Naples, Italy. Shared to make it easier to revisit the talks and find their papers and code.
+AI-generated transcripts and summaries created by Wispr Flow from recordings of 53 presentations at [ECML PKDD 2026](https://ecmlpkdd.org/2026/), September 7–11, 2026, in Naples, Italy. Shared to make it easier to revisit the talks and find their papers and code.
 
 [Conference](https://ecmlpkdd.org/2026/) · [Proceedings](https://ecmlpkdd.org/2026/proceedings/)
 
@@ -12,7 +12,7 @@ Paper and repository availability was checked on September 12, 2026. Missing lin
 
 ### Monday, September 7
 
-| Presentation | Notes |
+| Presentation | Summary and transcript |
 | --- | --- |
 | [Uncertainty-Aware Classifier Accuracy Prediction under Prior Probability Shift](uncertainty-aware-classifier-accuracy-prediction-under-prior-probability-shift/) | [Summary](uncertainty-aware-classifier-accuracy-prediction-under-prior-probability-shift/summary.md) · [Transcript](uncertainty-aware-classifier-accuracy-prediction-under-prior-probability-shift/transcript.md) |
 | [Uncertainty-aware Finite-sample Quantification](uncertainty-aware-finite-sample-quantification/) | [Summary](uncertainty-aware-finite-sample-quantification/summary.md) · [Transcript](uncertainty-aware-finite-sample-quantification/transcript.md) |
@@ -24,7 +24,7 @@ Paper and repository availability was checked on September 12, 2026. Missing lin
 
 ### Tuesday, September 8
 
-| Presentation | Notes |
+| Presentation | Summary and transcript |
 | --- | --- |
 | [Understanding and Mitigating Semantic Popularity Bias in LLM-based Recommender Systems](understanding-and-mitigating-semantic-popularity-bias-in-llm-based-recommender-systems/) | [Summary](understanding-and-mitigating-semantic-popularity-bias-in-llm-based-recommender-systems/summary.md) · [Transcript](understanding-and-mitigating-semantic-popularity-bias-in-llm-based-recommender-systems/transcript.md) |
 | [AISecurityPulse: Automating Security Issue Reports for AI Models](aisecuritypulse-automating-security-issue-reports-for-ai-models/) | [Summary](aisecuritypulse-automating-security-issue-reports-for-ai-models/summary.md) · [Transcript](aisecuritypulse-automating-security-issue-reports-for-ai-models/transcript.md) |
@@ -47,7 +47,7 @@ Paper and repository availability was checked on September 12, 2026. Missing lin
 
 ### Wednesday, September 9
 
-| Presentation | Notes |
+| Presentation | Summary and transcript |
 | --- | --- |
 | [TS2TabPFN: Time Series Classification and Extrinsic Regression through Feature Extraction and a Tabular Foundation Model](ts2tabpfn-time-series-classification-and-extrinsic-regression-through-feature-extraction-and-a-tabular-foundation-model/) | [Summary](ts2tabpfn-time-series-classification-and-extrinsic-regression-through-feature-extraction-and-a-tabular-foundation-model/summary.md) · [Transcript](ts2tabpfn-time-series-classification-and-extrinsic-regression-through-feature-extraction-and-a-tabular-foundation-model/transcript.md) |
 | [Dynamic Instance Weighting for Online Learning in Multi-Cryptocurrency Price and Trend Forecasting](dynamic-instance-weighting-for-online-learning-in-multi-cryptocurrency-price-and-trend-forecasting/) | [Summary](dynamic-instance-weighting-for-online-learning-in-multi-cryptocurrency-price-and-trend-forecasting/summary.md) · [Transcript](dynamic-instance-weighting-for-online-learning-in-multi-cryptocurrency-price-and-trend-forecasting/transcript.md) |
@@ -65,7 +65,7 @@ Paper and repository availability was checked on September 12, 2026. Missing lin
 
 ### Thursday, September 10
 
-| Presentation | Notes |
+| Presentation | Summary and transcript |
 | --- | --- |
 | [ASDA: Automated Skill Distillation and Adaptation for Financial Reasoning](asda-automated-skill-distillation-and-adaptation-for-financial-reasoning/) | [Summary](asda-automated-skill-distillation-and-adaptation-for-financial-reasoning/summary.md) · [Transcript](asda-automated-skill-distillation-and-adaptation-for-financial-reasoning/transcript.md) |
 | [Game of Phones: Harnessing Game Theory and LLMs in Bot Wars to Counteract Phone Scams](game-of-phones-harnessing-game-theory-and-llms-in-bot-wars-to-counteract-phone-scams/) | [Summary](game-of-phones-harnessing-game-theory-and-llms-in-bot-wars-to-counteract-phone-scams/summary.md) · [Transcript](game-of-phones-harnessing-game-theory-and-llms-in-bot-wars-to-counteract-phone-scams/transcript.md) |
